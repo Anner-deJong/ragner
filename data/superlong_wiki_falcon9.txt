@@ -1,0 +1,1985 @@
+List of Falcon 9 and Falcon Heavy launches
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+This is a featured list. Click here for more information.
+From Wikipedia, the free encyclopedia
+
+Left to right: Falcon 9 v1.0, v1.1, v1.2 "Full Thrust", Falcon 9 Block 5, Falcon Heavy, and Falcon Heavy Block 5.
+Since June 2010, rockets from the Falcon 9 family have been launched 314 times, with 312 full mission successes, two failures,[a] and one partial success. Designed and operated by SpaceX, the Falcon 9 family includes the retired versions Falcon 9 v1.0, v1.1, and v1.2 "Full Thrust" (blocks 3 and 4), along with the currently active Block 5 evolution. Falcon Heavy is a heavy-lift derivative of Falcon 9, combining a strengthened central core with two Falcon 9 first stages as side boosters.[1]
+
+The Falcon design features reusable first-stage boosters, which land either on a ground pad near the launch site or on a drone ship at sea.[2] In December 2015, Falcon 9 became the first rocket to land propulsively after delivering a payload into orbit.[3] This reusability results in significantly reduced launch costs, as the cost of the first stage constitutes the majority of the cost of a new rocket.[4][5] Falcon family core boosters have successfully landed 279 times in 290 attempts. A total of 41 boosters have flown multiple missions, with a record of 19 missions by a single booster. SpaceX has also reflown fairing halves more than 300 times, with some being reflown for eleven or more times.[6]
+
+Typical missions include launches of SpaceX's Starlink satellites (accounting for a majority of the Falcon manifest), Dragon crew and cargo missions to the International Space Station, and launches of commercial and military satellites to LEO, polar, and geosynchronous orbits. The heaviest payloads launched on Falcon are batches of 24 Starlink V2-Mini satellites weighing 17,500 kg (38,600 lb) total, a common configuration first flown February 2024.[7] when landing on ASDS The heaviest payload launched to geostationary transfer orbit (GTO) was the 9,200 kg (20,300 lb) Jupiter-3 on 29 July 2023. Launches to higher-orbits have included DSCOVR to Sun–Earth Lagrange point L1, TESS to a lunar flyby, a Tesla Roadster to a heliocentric orbit extending past the orbit of Mars, DART to the asteroid Didymos, Euclid to Sun-Earth Lagrange point L2, and Psyche to the asteroid Psyche.
+
+Launch statistics
+Rockets from the Falcon 9 family have been launched 314 times over 14 years, resulting in 312 full successes (99.4%), one in-flight failure (SpaceX CRS-7), and one partial success (SpaceX CRS-1 delivered its cargo to the International Space Station (ISS), but a secondary payload was stranded in a lower-than-planned orbit). Additionally, one rocket and its payload AMOS-6 were destroyed before launch in preparation for an on-pad static fire test. The active version, Falcon 9 Block 5, has flown 249 missions, all full successes.
+
+In 2022 Falcon 9 set a new record of 60 launches (all successful) by the same launch vehicle type in a calendar year. The previous record was held by Soyuz-U, which had 47 launches (45 successful) in 1979.[8] In 2023 Falcon 9 family set a new record of 96 launches (all successful) by the same launch vehicle family in a calendar year. The previous record was held by R-7 rocket family, which had 63 launches (61 successful) in 1980.[b][9]
+
+The first rocket version Falcon 9 v1.0 was launched five times from June 2010 to March 2013, its successor Falcon 9 v1.1 15 times from September 2013 to January 2016, and the Falcon 9 Full Thrust 285 times from December 2015 to present. The latest Full Thrust variant, Block 5, was introduced in May 2018.[10] While the Block 4 boosters were only flown twice and required several months of refurbishment, Block 5 versions were certified to sustain 10 flights and have since been recertified for 15 and then 20 flights per booster.[11] SpaceX is currently planning to further increase the Falcon re-flight certification to 40 flights per booster, once 20 flights is reached.[12]
+
+The Falcon Heavy derivative consists of a strengthened Falcon 9 first stage as its center core, with two additional Falcon 9 first stages attached and used as boosters, both of which are fitted with an aerodynamic nosecone instead of a usual Falcon 9 interstage.[13]
+
+Falcon 9 first-stage boosters landed successfully in 279 of 290 attempts (96.2%), with 254 out of 258 (98.4%) for the Falcon 9 Block 5 version. A total of 251 re-flights of first stage boosters have all successfully launched their payloads.
+
+Rocket configurations
+102030405060708090100'10'11'12'13'14'15'16'17'18'19'20'21'22'23'24
+  Falcon 9 v1.0
+  Falcon 9 v1.1
+  Falcon 9 Full Thrust
+  Falcon 9 FT (reused)
+  Falcon 9 Block 5 (new)
+  Falcon 9 Block 5 (reused)
+  Falcon Heavy
+Launch sites
+102030405060708090100'10'11'12'13'14'15'16'17'18'19'20'21'22'23'24
+  CCSFS, SLC-40
+  KSC, LC-39A
+  VSFB, SLC-4E
+Launch outcomes
+102030405060708090100'10'11'12'13'14'15'16'17'18'19'20'21'22'23'24
+  Loss before launch
+  Loss during flight
+  Partial failure
+  Success (commercial and government)
+  Success (Starlink)
+  Planned (commercial and government)
+  Planned (Starlink)
+Booster landings
+255075100125150'10'11'12'13'14'15'16'17'18'19'20'21'22'23'24
+  Ground-pad failure
+  Drone-ship failure
+  Ocean test failure[i]
+  Parachute test failure[ii]
+  Ground-pad success
+  Drone-ship success
+  Ocean test success[iii]
+  No attempt
+ Controlled descent; ocean touchdown control failed; no recovery
+ Passive reentry failed before parachute deployment
+ Controlled descent; soft vertical ocean touchdown; no recovery
+Past launches
+2010 to 2019
+For launches prior to 2020, please refer to List of Falcon 9 and Falcon Heavy launches (2010–2019).
+2020
+In late 2019, Gwynne Shotwell stated that SpaceX hoped for as many as 24 launches for Starlink satellites in 2020,[14] in addition to 14 or 15 non-Starlink launches. At 26 launches, 14 of which were for Starlink satellites, Falcon 9 had its most prolific year, and Falcon rockets were second most prolific rocket family of 2020, only behind China's Long March rocket family.[15]
+Flight No.	Date and
+time (UTC)	Version,
+booster[c]	Launch
+site	Payload[d]	Payload mass	Orbit	Customer	Launch
+outcome	Booster
+landing
+78	7 January 2020
+02:19:21[16]	F9 B5 ♺
+B1049.4	CCSFS,
+SLC-40	Starlink 2 v1.0 (60 satellites)	15,600 kg (34,400 lb)[17]	LEO	SpaceX	Success	Success
+(drone ship)
+Third large batch and second operational flight of Starlink constellation. One of the 60 satellites included a test coating to make the satellite less reflective, and thus less likely to interfere with ground-based astronomical observations.[18]
+79	19 January 2020
+15:30[19]	F9 B5 ♺
+B1046.4	KSC,
+LC-39A	Crew Dragon in-flight abort test[20]
+(Dragon C205.1)	12,050 kg (26,570 lb)	Sub-orbital[21]	NASA (CTS)[22]	Success	No attempt
+An atmospheric test of the Dragon 2 abort system after Max Q. The capsule fired its SuperDraco engines, reached an apogee of 40 km (25 mi), deployed parachutes, and splashed down in the ocean 31 km (19 mi) downrange from the launch site. The test was previously slated to be accomplished with the Crew Dragon Demo-1 capsule;[23] but that test article exploded during a ground test of SuperDraco engines on 20 April 2019.[24] The abort test used the capsule originally intended for the first crewed flight.[25] As expected, the booster was destroyed by aerodynamic forces after the capsule aborted.[26] First flight of a Falcon 9 with only one functional stage — the second stage had a mass simulator in place of its engine.
+80	29 January 2020
+14:07[27]	F9 B5 ♺
+B1051.3	CCSFS,
+SLC-40	Starlink 3 v1.0 (60 satellites)	15,600 kg (34,400 lb)[17]	LEO	SpaceX	Success	Success
+(drone ship)
+Third operational and fourth large batch of Starlink satellites, deployed in a circular 290 km (180 mi) orbit. One of the fairing halves was caught, while the other was fished out of the ocean.[28]
+81	17 February 2020
+15:05[29]	F9 B5 ♺
+B1056.4	CCSFS,
+SLC-40	Starlink 4 v1.0 (60 satellites)	15,600 kg (34,400 lb)[17]	LEO	SpaceX	Success	Failure
+(drone ship)
+Fourth operational and fifth large batch of Starlink satellites. Used a new flight profile which deployed into a 212 km × 386 km (132 mi × 240 mi) elliptical orbit instead of launching into a circular orbit and firing the second stage engine twice. The first stage booster failed to land on the drone ship[30] due to incorrect wind data.[31] This was the first time a flight proven booster failed to land.
+82	7 March 2020
+04:50[32]	F9 B5 ♺
+B1059.2	CCSFS,
+SLC-40	SpaceX CRS-20
+(Dragon C112.3 ♺ )	1,977 kg (4,359 lb)[33] (excl. Dragon mass)	LEO (ISS)	NASA (CRS)	Success	Success
+(ground pad)
+Last launch of phase 1 of the CRS contract. Carries Bartolomeo, an ESA platform for hosting external payloads onto ISS.[34] Originally scheduled to launch on 2 March 2020, the launch date was pushed back due to a second stage engine failure. SpaceX decided to swap out the second stage instead of replacing the faulty part.[35] It was SpaceX's third flight of the Dragon C112 and the last launch of the Cargo Dragon spacecraft.
+83	18 March 2020
+12:16[36]	F9 B5 ♺
+B1048.5	KSC,
+LC-39A	Starlink 5 v1.0 (60 satellites)	15,600 kg (34,400 lb)[17]	LEO	SpaceX	Success	Failure
+(drone ship)
+Fifth operational launch of Starlink satellites. It was the first time a first stage booster flew for a fifth time and the second time the fairings were reused (Starlink flight in May 2019).[37] Towards the end of the first stage burn, the booster suffered premature shut down of an engine, the first of a Merlin 1D variant and first since the CRS-1 mission in October 2012. However, the payload still reached the targeted orbit.[38] This was the second Starlink launch booster landing failure in a row, later revealed to be caused by residual cleaning fluid trapped inside a sensor.[39]
+84	22 April 2020
+19:30[40]	F9 B5 ♺
+B1051.4	KSC,
+LC-39A	Starlink 6 v1.0 (60 satellites)	15,600 kg (34,400 lb)[17]	LEO	SpaceX	Success	Success
+(drone ship)
+Sixth operational launch of Starlink satellites. The 84th flight of the Falcon 9 rocket, it surpassed Atlas V to become the most-flown operational US rocket.[41] Used fairings launched on AMOS-17 (August 2019).[42]
+85	30 May 2020
+19:22[43]	F9 B5 B1058.1[44]	KSC,
+LC-39A	Crew Dragon Demo-2[45]
+(Crew Dragon C206.1 Endeavour)	12,530 kg (27,620 lb)[46]	LEO (ISS)	NASA (CCDev)	Success	Success
+(drone ship)
+First crewed orbital spaceflight from American soil since Space Shuttle STS-135 in July 2011, carrying NASA astronauts Bob Behnken and Doug Hurley to the International Space Station.[45] The SpaceX live stream was peaked at 4.1 million viewers, while NASA estimated roughly 10 million people watched on various online platforms, and approximately 150,000 people gathered on Florida's space coast despite the risks of the COVID-19 pandemic.[47]
+86	4 June 2020
+01:25[48]	F9 B5 ♺
+B1049.5	CCSFS,
+SLC-40	Starlink 7 v1.0 (60 satellites)	15,600 kg (34,400 lb)[17]	LEO	SpaceX	Success	Success
+(drone ship)
+Seventh operational launch of Starlink satellites, occurred on the 10th anniversary of the first Falcon 9 flight. Included "VisorSat" satellite test that uses a sunshade to limit reflectivity.[49] First booster to successfully land five times, and first to land on Just Read The Instructions since it was moved to the East Coast.
+87	13 June 2020
+09:21[50]	F9 B5 ♺
+B1059.3	CCSFS,
+SLC-40	Starlink 8 v1.0 (58 satellites),[51][52]
+SkySats-16, -17, -18	15,410 kg (33,970 lb)[50]	LEO	SpaceX
+Planet Labs	Success	Success
+(drone ship)
+Eighth operational launch of Starlink satellites, included the first rideshare in SpaceX's SmallSat Program, of three SkySat satellites.[53][52] One payload fairing half launched on JCSat-18 / Kacific 1 mission in December 2019. The other payload fairing half flew on Starlink 2 v1.0 in January 2020.[54] For the first time, SpaceX did not perform a static fire before launch.
+88	30 June 2020
+20:10:46[55]	F9 B5
+B1060.1	CCSFS,
+SLC-40	GPS III-03 (Matthew Henson)	4,311 kg (9,504 lb)[56]	MEO	U.S. Space Force[56]	Success	Success
+(drone ship)
+Payload manufacturing contract awarded January 2012,[57] fully assembled in August 2017,[58][59] and completed thermal vacuum testing in June 2018.[60] Launch contract was awarded initially for US$96.5 million,[61] but later, this was discounted in exchange for allowing to launch configuration enabling booster recovery.[62] The vehicle nicknamed Columbus was transported to Florida in February 2020,[63] but launch was delayed by the customer from April 2020, due to the COVID-19 pandemic.[64] The launch was dedicated to the memory of the recently deceased, late commander of the 21st Space Wing, Colonel Thomas G. Falzarano,[65][66] and after launch, in October 2020, the nickname was changed to that of the Arctic explorer Matthew Henson.[67][68] For second time, the second stage featured a gray banded Falcon long coast mission-extension kit, to allow more heat to be absorbed during the longer coasting period,[69] while both fairings were recovered out of the water without attempting a catch in the net.
+89	20 July 2020
+21:30[70]	F9 B5 ♺
+B1058.2[71]	CCSFS,
+SLC-40	ANASIS-II	5,000–6,000 kg (11,000–13,000 lb)	GTO	Republic of Korea Army	Success	Success
+(drone ship)
+At 5–6 tonnes, the satellite formerly known as K-Milsat-1 is South Korea's first dedicated military satellite. Contracted by South Korea's Defense Acquisition Program Administration in 2014.[72] 57th successful recovery of a Falcon 9 first stage. For the first time both fairing halves were also successfully caught by fairing catching ships.[73] This launch featured a booster reflight within 51 days, a new record turnaround time for a Falcon booster.[74] It was the same booster that launched the Crew Dragon Demo-2 spacecraft on 30 May 2020.[70] The satellite was delivered to a super-synchronous transfer orbit of 211 km × 45,454 km (131 mi × 28,244 mi), while both fairing halves were caught in the catch nets of the supports ships.[75]
+90	7 August 2020
+05:12[76]	F9 B5 ♺
+B1051.5	KSC,
+LC-39A	Starlink 9 v1.0 (57 Satellites),[51]
+SXRS-1 (BlackSky Global 7 and 8)	14,932 kg (32,919 lb)	LEO	SpaceX
+Spaceflight Industries (BlackSky)	Success	Success
+(drone ship)
+Ninth operational launch of Starlink satellites. This mission carried 57 Starlink satellites and two BlackSky satellites as rideshare.[77] This first rideshare contracted with Spaceflight Industries was dubbed internally as "SXRS-1".[78] After previously testing on a single Starlink, the launch will have all 57 satellites include a "VisorSat" to reduce their brightness.[79]
+91	18 August 2020
+14:31[80]	F9 B5 ♺
+B1049.6[71]	CCSFS,
+SLC-40	Starlink 10 v1.0 (58 satellites)
+SkySat-19, -20, -21	~15,440 kg (34,040 lb)	LEO	SpaceX
+Planet Labs	Success	Success
+(drone ship)
+Tenth operational launch of Starlink satellites. Starlink flight including three SkySat rideshare satellites.[53] First time a booster made a 6th flight.[81] The fairings previously flew on Starlink 3 v1.0. One fairing half was caught by Go Ms. Tree, the other was scooped out of the ocean.[53]
+92	30 August 2020
+23:18[82]	F9 B5 ♺
+B1059.4	CCSFS,
+SLC-40	SAOCOM 1B[83]
+GNOMES 1[83]
+Tyvak-0172[84]	3,130 kg (6,900 lb)[85]	SSO	CONAE
+PlanetIQ
+Tyvak	Success	Success
+(ground pad)
+The 100th launch in SpaceX's history, first time a commercial launch on a fourth launch of a booster, it deployed Earth-observing satellites built by Argentina's space agency CONAE and two rideshares. SpaceX was contracted in 2009 for an initial launch as early as 2013.[86] Originally planned for launch from Vandenberg but launched from Cape Canaveral, which made it the first flight from there using the southern corridor to a polar orbit since 1969.[87][88]
+93	3 September 2020
+12:46:14[89]	F9 B5 ♺
+B1060.2[90]	KSC,
+LC-39A	Starlink 11 v1.0 (60 satellites)	15,600 kg (34,400 lb)[17]	LEO	SpaceX	Success	Success
+(drone ship)
+Eleventh operational launch of Starlink satellites, bringing the total to 713 launched Starlink satellites.[89]
+94	6 October 2020
+11:29:34[91]	F9 B5 ♺
+B1058.3[92]	KSC,
+LC-39A	Starlink 12 v1.0 (60 satellites)	15,600 kg (34,400 lb)[17]	LEO	SpaceX	Success	Success
+(drone ship)
+Twelfth operational launch of Starlink satellites, which for the first time used a fairing half on its third launch.[93] Also, the B1058 holds the title for the shortest time a booster reached 3 flights which is 129 days beating B1046 by 77 days.
+95	18 October 2020
+12:25:57[94]	F9 B5 ♺
+B1051.6[95]	KSC,
+LC-39A	Starlink 13 v1.0 (60 satellites)	15,600 kg (34,400 lb)[17]	LEO	SpaceX	Success	Success
+(drone ship)
+Thirteenth operational launch of Starlink satellites. Second time a booster was flown six times and first time both fairing halves were flown a third time. Both fairing halves landed on their respective ships but one fairing broke the net on Ms Tree.[96]
+96	24 October 2020
+15:31:34[97]	F9 B5 ♺
+B1060.3	CCSFS,
+SLC-40	Starlink 14 v1.0 (60 satellites)	15,600 kg (34,400 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+Fourteenth operational launch of Starlink satellites and the 100th successful launch of a Falcon vehicle.[98]
+97	5 November 2020
+23:24:23[99]	F9 B5
+B1062.1	CCSFS,
+SLC-40	GPS III-04 (Sacagawea)[67][100]	4,311 kg (9,504 lb)	MEO	USSF	Success	Success
+(drone ship)
+Manufacturing contract awarded in January 2012,[57] underwent thermal vacuum testing in December 2018,[101] while the launch contract was awarded in March 2018.[102] A launch attempt on 3 October 2020, was aborted two seconds before liftoff due to early start in two engines.[103][104] Following the abort, two engines from B1062 were sent for further testing.[105] The abort also caused delays to the Crew-1 launch to allow time for data review.[106][107]
+98	16 November 2020
+00:27[108]	F9 B5
+B1061.1[109]	KSC,
+LC-39A	Crew-1
+(Crew Dragon C207.1 Resilience)	~12,500 kg (27,600 lb)	LEO (ISS)	NASA (CCP)[22]	Success	Success
+(drone ship)
+First crew rotation of the commercial crew program, following the return in August of the crewed test flight mission Crew Demo 2. Originally designated "USCV-1" by NASA. Carried astronauts Victor Glover, Mike Hopkins, Shannon Walker and Soichi Noguchi, for a 6-month stay aboard the ISS, during which the Boeing Starliner OFT flight launched but was unable to dock as expected.[110] The first flight of the crew program was initially expected to launch in 2017,[111][112] and finished final certifications in November 2020.[113]
+99	21 November 2020
+17:17:08[114]	F9 B5 B1063.1	VSFB,
+SLC-4E	Sentinel-6 Michael Freilich (Jason-CS A)	1,192 kg (2,628 lb)	LEO	NASA / NOAA / ESA / EUMETSAT	Success	Success
+(ground pad)
+Named after the former director of NASA's Earth science program, it is a radar altimeter satellite part of the Ocean Surface Topography constellation located at 1,336 km (830 mi) and 66° inclination, and a follow-up to Jason 3 as a partnership between the United States (NOAA and NASA), Europe (EUMETSAT, ESA, CNES).[115]
+100	25 November 2020
+02:13[116]	F9 B5 ♺
+B1049.7[117]	CCSFS,
+SLC-40	Starlink 15 v1.0 (60 satellites)	15,600 kg (34,400 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+First time a booster was launched for a seventh time and first time SpaceX completed four launches in a single month.
+101	6 December 2020
+16:17:08[118]	F9 B5 ♺
+B1058.4[119]	KSC,
+LC-39A	SpaceX CRS-21
+(Dragon C208.1)	2,972 kg (6,552 lb) (excl. Dragon mass)	LEO (ISS)	NASA (CRS)	Success	Success
+(drone ship)
+First launch of phase 2 of the CRS contract of six launches awarded in January 2016.[120] It was the first launch of the upgraded version Cargo Dragon 2 spacecraft, with increased payload capacity and autonomous docking to the ISS. Payloads included Nanoracks Bishop Airlock[121] and CFIG-1 (Cool Flames Investigation with Gases).[122] It's also the 100th successful Falcon 9 launch.
+102	13 December 2020
+17:30:00[123]	F9 B5 ♺
+B1051.7	CCSFS,
+SLC-40[124]	SXM-7	7,000 kg (15,000 lb)	GTO	Sirius XM	Success	Success
+(drone ship)
+Launched the largest, high-power broadcasting satellite for SiriusXM's digital audio radio service (DARS). SXM-7 was built by Maxar Technologies; intended to operate in the S-band spectrum, it will replace the SXM-3 satellite. The satellite will deliver the highest power density of any commercial satellite on-orbit,[125] generate more than 20 kW of power, and have a large unfoldable antenna reflector, which enables broadcast to radios without the need for large dish-type antennas on the ground. Due to the heavy weight, the payload was injected into a sub-synchronous orbit of 224 km × 19,411 km (139 mi × 12,061 mi) and the satellite itself will transfer to full GTO.[126] It was the first time a commercial primary payload flew on a booster which had been flown more than 4 times before.[127] First dedicated customer launch where the fairings were previously used.[128]
+103	19 December 2020
+14:00:00[129]	F9 B5 ♺
+B1059.5	KSC,
+LC-39A	NROL-108	Classified	LEO	NRO	Success	Success
+(ground pad)
+The planned launch was not known by the public until FCC filings appeared in late September followed by confirmation from the NRO on 5 October 2020, likely a relatively light payload that allows the return of the booster to the launch site.[130]
+2021
+In October 2020, Elon Musk indicated he wanted to be able to increase launches to 48 in 2021.[131] Regulatory documents filed in February 2020, specified a maximum of 60 launches per year from Florida for Falcon 9 and another ten for Falcon Heavy, according to its 2020, environmental assessment.[132] 31 launches actually occurred in 2021; all were successful.[133]
+Flight No.	Date and
+time (UTC)	Version,
+booster[c]	Launch
+site	Payload[d]	Payload mass	Orbit	Customer	Launch
+outcome	Booster
+landing
+104	8 January 2021
+02:15[134]	F9 B5 ♺
+B1060.4	CCSFS,
+SLC-40	Türksat 5A[135]	3,500 kg (7,700 lb)	GTO	Türksat	Success	Success
+(drone ship)
+A 3,500 kg (7,700 lb) satellite intended to be stationed at 31.0° east.[135] This is the most powerful satellite in Türksat's fleet[136] and will provide Ku-band television broadcast services over Turkey, the Middle East, Europe and Africa. The satellite was injected in to a Super-synchronous transfer orbit of 280 km × 55,000 km (170 mi × 34,180 mi) with 17.6° inclination.[137]
+105	20 January 2021
+13:02:22[138]	F9 B5 ♺
+B1051.8[139]	KSC,
+LC-39A	Starlink 16 v1.0 (60 satellites)	15,600 kg (34,400 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+The first booster to successfully launch and land eight times. Achieved a record turnaround time between two launches of the same booster of only 38 days and brought the total of launched Starlink satellites to over 1000.[140] SpaceX stated that the landing would occur during higher winds than usual; this test to expand the landing envelope was successfully passed by the booster.[141]
+106	24 January 2021
+15:00[142]	F9 B5 ♺
+B1058.5[143]	CCSFS,
+SLC-40	Transporter-1: (143 smallsat rideshare)	~5,000 kg (11,000 lb)	SSO	Various	Success	Success
+(drone ship)
+First dedicated smallsat rideshare launch arranged by SpaceX, targeting a 525 km (326 mi) altitude orbit.[144] The launch deployed a record 143 satellites, consisting of 120 CubeSats, 11 microsatellites, 10 Starlinks, and 2 transfer stages. In addition, 2 hosted payloads and 1 non-separating dummy satellite[145] were launched.[146] These include SpaceBEE (x 36), Lemur-2 (x 8), ICEYE (x 3), UVSQ-SAT,[147] ELaNa 35 (PTD-1),[148] and Kepler nanosats (x 8).[149][150] D-Orbit ION Satellite Carrier and 10 Starlink satellites made for testing optical laser inter-satellite links placed in a polar orbit[151] and 2 of 15 payloads remained attached to SHERPA-FX1. Exolaunch deployed several small satellites and cubesats via their own deployment mechanisms. First flight of a Falcon 9 with a SHERPA-FX transfer stage called SHERPA-FX1.[152][153]
+107	4 February 2021
+06:19[154]	F9 B5 ♺
+B1060.5[155]	CCSFS,
+SLC-40	Starlink 18 v1.0 (60 satellites)	15,600 kg (34,400 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+This set a new booster turnaround record, at 27 days, and it was the first time a Falcon 9 flew twice within a month.[156]
+108	16 February 2021
+03:59:37[157]	F9 B5 ♺
+B1059.6	CCSFS,
+SLC-40	Starlink 19 v1.0 (60 satellites)[158]	15,600 kg (34,400 lb)	LEO	SpaceX	Success	Failure
+(drone ship)
+A hole in a heat-shielding engine cover, which likely developed through fatigue, allowed recirculating hot exhaust gases to damage one of the Merlin 1D first-stage engines, causing it to shut down early during ascent. Engine-out capability of the Falcon 9 allowed the mission to continue and successfully deploy the 60 Starlink satellites to orbit.[159] The issue caused the booster to fail its landing attempt and miss the droneship Of Course I Still Love You (OCISLY) after its entry burn, breaking the longest streak of 24 landing successes (since surpassed).[160] During this mission, GO Ms. Tree and GO Ms. Chief were used for the last time to recover the fairings;[161][162] SpaceX retired the fairing catching program in favor of fairing fishing.[163] Both fairing catching ships were retired from SpaceX use.
+109	4 March 2021
+08:24:54[164]	F9 B5 ♺
+B1049.8[165]	KSC,
+LC-39A	Starlink 17 v1.0 (60 satellites)	15,600 kg (34,400 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+Launch had previously been postponed multiple times, causing the payload Starlink L17 to launch after the L18 and L19 missions. Featured for the first time, a fairing which was flying on its fourth flight.[166] The second-stage deorbit burn failed, causing an uncontrolled reentry on 26 March 2021, over the west coast of the United States.[167]
+110	11 March 2021
+08:13:29[168]	F9 B5 ♺
+B1058.6[169]	CCSFS,
+SLC-40	Starlink 20 v1.0 (60 satellites)	15,600 kg (34,400 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+Twentieth operational launch of Starlink satellites, bringing the total to 1,265 (including prototypes) launched Starlink satellites.[170]
+111	14 March 2021
+10:01:26[171]	F9 B5 ♺
+B1051.9	KSC,
+LC-39A	Starlink 21 v1.0 (60 satellites)	15,600 kg (34,400 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+First time a first-stage booster flew and landed for the ninth time. This flight also marked the fastest turnaround time for a fairing half, at 49 days. Both fairing halves previously flew on the Transporter-1 mission.[172]
+112	24 March 2021
+08:28:24[173]	F9 B5 ♺
+B1060.6[174]	CCSFS,
+SLC-40	Starlink 22 v1.0 (60 satellites)	15,600 kg (34,400 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+Fairing "wet recovery" achieved by contracted recovery vessel Shelia Bordelon for the first time. Both fairing halves were retrieved from the water.[175]
+113	7 April 2021
+16:34:18	F9 B5 ♺
+B1058.7	CCSFS,
+SLC-40	Starlink 23 v1.0 (60 satellites)	15,600 kg (34,400 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+23rd operational launch of Starlink satellites, bringing the total to 1,385 launched Starlink satellites (including prototype). This launch featured the second fastest booster turnaround time at 27 days and 8 hours (after Starlink 18 with B1060.5, which was 4 hours faster).[176]
+114	23 April 2021
+09:49:02[177]	F9 B5 ♺
+B1061.2[178]	KSC,
+LC-39A	Crew-2
+(Crew Dragon C206.2 Endeavour ♺ )	~13,000 kg (29,000 lb)[179]	LEO (ISS)	NASA (CTS)[22]	Success	Success
+(drone ship)
+Second operational flight of Crew Dragon for Commercial Crew Program. Transported NASA astronauts Shane Kimbrough and Megan McArthur, JAXA Astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet to the ISS.[180] The four astronauts will spend 6 months aboard the ISS. Beginning with the Crew-2 mission, NASA has modified the contract to allow NASA astronauts to use flight-proven Dragon capsules and booster.[181] Thus SpaceX reflew the Dragon used on Demo-2 and used Booster B1061-2 which had been used to launch Crew-1 in November 2020.
+115	29 April 2021
+03:44:30[182]	F9 B5 ♺
+B1060.7[183]	CCSFS,
+SLC-40	Starlink 24 v1.0 (60 satellites)	15,600 kg (34,400 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+24th operational launch of Starlink satellites, bringing the total to 1,434 Starlink satellites still in orbit. This launch also paid tribute to Apollo 11 crew Michael Collins, who died hours before the launch.[184]
+116	4 May 2021
+19:01:07[185]	F9 B5 ♺
+B1049.9[186]	KSC,
+LC-39A	Starlink 25 v1.0 (60 satellites)	15,600 kg (34,400 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+25th operational launch of Starlink satellites, bringing the total to 1,494 Starlink satellites still in orbit, second time a booster flew for the ninth time.
+117	9 May 2021
+06:42:45[187]	F9 B5 ♺
+B1051.10[188]	CCSFS,
+SLC-40	Starlink 27 v1.0 (60 satellites)	15,600 kg (34,400 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+This was the first time a booster flew 10 times. Brought the total number of operational Starlink satellites in the first shell to approximately 1516 out of a planned 1584.[189]
+118	15 May 2021
+22:56[190]	F9 B5 ♺
+B1058.8	KSC,
+LC-39A	Starlink 26 v1.0 (52 Satellites)
+Capella-6 &Tyvak-0130[191]	~14,000 kg (31,000 lb)	LEO	SpaceX
+Capella Space and Tyvak	Success	Success
+(drone ship)
+Rideshare launch with a targeted orbit at 569x582, significantly higher than typical Starlink launches, to allow for needs of the rideshare payloads.[192] Fairing "wet recovery" done by contracted recovery vessel Shelia Bordelon for the last time.
+119	26 May 2021
+18:59:35[193]	F9 B5 ♺
+B1063.2	CCSFS,
+SLC-40	Starlink 28 v1.0 (60 Satellites)	15,600 kg (34,400 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+Will likely complete the first shell of the Starlink network located at 550 km altitude and containing 1584 satellites.[192] It was 40th launch a fairing was reused, with one half being used for the 5th time (first fairing to do so) and the other for a 3rd time.[194] This launch marks SpaceX's 100th successful launch in a row without in-flight failure since December 2015.
+120	3 June 2021
+17:29:17[195]	F9 B5
+B1067.1[196]	KSC,
+LC-39A	SpaceX CRS-22
+(Dragon C209.1)	3,328 kg (7,337 lb) (excl. Dragon mass)	LEO (ISS)	NASA (CRS)	Success	Success
+(drone ship)
+Second of a minimum of six new cargo missions under the CRS-2 contract, which NASA awarded SpaceX in 2015. Mission was flown with an uncrewed Dragon 2 capsule,[197] which carried solar panels, catalytic reactor for the station's life support system, an emergency air supply system, Kurs remote control unit, and a Potable Water Dispense (PWD) filter. Also carried were the RamSat cubesat as payload for ELaNa 36,[198] the SOAR cubesat for the University of Manchester[199] and the first Mauritian satellite MIR-SAT1[200] to be launched from the station later. This was the last mission the Of Course I Still Love You droneship supported on the east coast,[201] since SpaceX began launching Starlink satellites from the West Coast starting in July, which requires a droneship landing. OCISLY was replaced by A Shortfall Of Gravitas droneship later that summer.[202]
+121	6 June 2021
+04:26[203]	F9 B5 ♺
+B1061.3	CCSFS,
+SLC-40	SXM-8[204]	7,000 kg (15,000 lb)	GTO	Sirius XM	Success	Success
+(drone ship)
+A large, high-power broadcasting satellite for SiriusXM's digital audio radio service (DARS) contracted together with SXM-7 to replace the aging XM-4 satellite and allow broadcast to radios without the need for large dish-type antennas on the ground.[127][205]
+122	17 June 2021
+16:09:35[206]	F9 B5 ♺
+B1062.2[207]	CCSFS,
+SLC-40	USA-319 / GPS III-05 (Neil Armstrong)[67][208]	4,331 kg (9,548 lb)[209]	MEO	USSF[56]	Success	Success
+(drone ship)
+Manufacturing contract awarded February 2013.[210] In March 2018, the Air Force announced it had awarded the launch contract for three GPS satellites to SpaceX.[211] This is the first reused booster launch for a 'national security' mission.[212] Fairing "wet recovery" was attempted by contracted recovery vessel Hos Briarwood for the first time. Both fairing halves were retrieved from water.[213][214]
+123	30 June 2021
+19:31[215]	F9 B5 ♺
+B1060.8	CCSFS,
+SLC-40	Transporter-2: (88 payloads Smallsat Rideshare)	Unknown[e]	SSO	Various	Success	Success
+(ground pad)
+A total of 88 payloads including prototype Starlink v1.5 satellites made for testing optical laser inter-satellite links[216] (3x), Polar Vigilance (4x), Exolaunch YAM-2 & 3, Satellogic,[217] Capella-5[218] HawkEye Cluster 3 (multiple sats), Spaceflight Industries (multiple sats including on two space tugs Sherpa-FX2 Sherpa-LTE1).[215] LINCS 1 and 2 were reported to be tumbling uncontrolled due to "an issue with the launch vehicle".[219]
+124	29 August 2021
+07:14:49[220]	F9 B5 ♺
+B1061.4	KSC,
+LC-39A	SpaceX CRS-23
+(Dragon C208.2 ♺ )	~2,200 kg (4,900 lb) (excl. Dragon mass)	LEO (ISS)	NASA (CRS)	Success	Success
+(drone ship)
+Third of six new cargo missions NASA awarded in 2015 to SpaceX under the CRS-2 contract to be flown after the initial 20 missions of phase 1 were completed in 2020.[197] Includes FBCE, SoFIE. First time a booster landed on SpaceX's fourth droneship, A Shortfall Of Gravitas (ASOG),[221][222] marking the first use when SpaceX has three droneships in operation.
+125	14 September 2021
+03:55:50[223]	F9 B5 ♺
+B1049.10[224]	VSFB,
+SLC-4E	Starlink Group 2-1 (v1.5 L1, 51 satellites)[225][226]	~13,260 kg (29,230 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+First launch of Starlink satellites from Vandenberg Space Force Base, and first West coast launch in 10 months. The 70-degree inclination launch is the first Starlink launch into a high-inclination, non-SSO orbit.[192] The satellites were the upgraded and operational 1.5 version that featured "laser inter-satellite links, which are needed for high latitudes & mid ocean coverage".[225] It was the second booster to make a tenth flight and landing.
+126	16 September 2021
+00:02:56[227]	F9 B5 ♺
+B1062.3[228]	KSC,
+LC-39A	Inspiration4
+(Crew Dragon C207.2 Resilience ♺ )	~12,519 kg (27,600 lb)	LEO	Jared Isaacman
+[note 1][229][230]	Success	Success
+(drone ship)
+SpaceX signed in February 2021, its first all-civilian flight for a crewed spacecraft with Jared Isaacman (Leadership), founder and CEO of Shift4 Payments, who commands and pilots the mission, and who donated the three other seats in the Crew Dragon vehicle's launch to LEO. The first of these three seats (Generosity) was won by Christopher Sembroski in a lottery, who donated to St. Jude Children's Research Hospital, the second seat (Hope) was awarded to Hayley Arceneaux, an ambassador associated with that hospital, and the third seat (Prosperity) was awarded to Sian Proctor, the winner of a contest between entrepreneurs who use Shift4Shop. The seats were awarded on 30 March 2021.[231][232] The mission reached a circular orbit of about 585 km and lasted about three days. The docking adapter of Crew Dragon Resilience was replaced by a dome window.[233][234][235]
+127	11 November 2021
+02:03:31[236]	F9 B5 ♺
+B1067.2[237]	KSC,
+LC-39A	Crew-3
+(Crew Dragon C210.1 Endurance)	~13,000 kg (29,000 lb)[238]	LEO (ISS)	NASA (CTS)[22]	Success	Success
+(drone ship)
+SpaceX's third operational Crew Dragon flight carried NASA astronauts Thomas Marshburn, Kayla Barron and Raja Chari as well as German ESA astronaut Matthias Maurer.[239] It also carried up to 100 kg (220 lb) of cargo to the ISS.[22]
+128	13 November 2021
+12:19[240]	F9 B5 ♺
+B1058.9[241]	CCSFS,
+SLC-40	Starlink Group 4-1 (53 satellites)[242]	~15,635 kg (34,469 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+First East Coast Starlink launch after the v1.0 L28 launch which completed the first shell of the Starlink network located at 540 km altitude. Fairing "wet recovery" was attempted by SpaceX multipurpose ship, Bob for the first time, and both fairing halves were retrieved from water.[243][213]
+129	24 November 2021
+06:21[244]	F9 B5 ♺
+B1063.3[245]	VSFB,
+SLC-4E	Double Asteroid Redirection Test (DART)[246]	624 kg (1,376 lb)	Heliocentric	NASA (LSP)	Success	Success
+(drone ship)
+Dart mission will measure the kinetic effects of crashing an impactor into the surface of the moon of 65803 Didymos asteroid. It is the first mission aiming to demonstrate asteroid redirect capability[247] and the first NASA scientific mission using a previously flown booster.[248] The launch contract was awarded to SpaceX for $69 million.[249]
+130	2 December 2021
+23:12[250]	F9 B5 ♺
+B1060.9[251]	CCSFS,
+SLC-40	Starlink Group 4-3 (48 satellites)
+SXRS-2: BlackSky Global (2 sats)[252]	~14,500 kg (32,000 lb)	LEO	SpaceX
+Spaceflight, Inc. (BlackSky Global)	Success	Success
+(drone ship)
+This mission carried 48 Starlink satellites[253] and two BlackSky Gen-2 satellites (numbered 12 and 13)[254] as rideshare payloads. The BlackSky satellites were released prior to the Starlink deployment, to a 435x425 km orbit at 53.2° inclination.[255]
+131	9 December 2021
+06:00[256]	F9 B5 ♺
+B1061.5	KSC,
+LC-39A	Imaging X-ray Polarimetry Explorer (IXPE)[257]	325 kg (717 lb)	LEO	NASA (LSP)	Success	Success
+(drone ship)
+SMEX 14 mission with three identical NASA telescopes on a single spacecraft, designed to measure X-rays. The launch contract was awarded to SpaceX for US$50.3 million,[257] and is the smallest dedicated payload ever launched by Falcon 9 launch vehicle.[258] However, the required exact equatorial orbit required an orbital plane change that meant an approximately 30% of Falcon 9's maximum theoretical performance for such an orbital profile (1.5-2 tons).[259]
+132	18 December 2021
+12:41[260]	F9 B5 ♺
+B1051.11	VSFB,
+SLC-4E	Starlink Group 4-4
+(52 satellites)[261]	15,600 kg (34,400 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+First West coast and third overall 53.2-degree inclination Starlink launch. First time a Falcon 9 first stage booster flew for an eleventh time.
+133	19 December 2021
+03:58[262]	F9 B5 ♺
+B1067.3	CCSFS,
+SLC-40	Türksat 5B[263]	4,500 kg (9,900 lb)	GTO	Türksat	Success	Success
+(drone ship)
+The first GTO satellite partially built in Turkey, the 4,500 kg (9,900 lb) satellite is intended to be placed at 42.0° east.[264] By launching at the opening of the Turksat-5B window, SpaceX set a new record for the shortest time between two Falcon 9 launches at 15 hours and 17 minutes. The previous record time was 44 hours and 17 minutes, set between the Starlink Group 2-1 and Inspiration4 missions.[265]
+134	21 December 2021
+10:06[266]	F9 B5
+B1069.1	KSC,
+LC-39A	SpaceX CRS-24
+(Dragon C209.2 ♺ )	2,989 kg (6,590 lb) (excl. Dragon mass)	LEO (ISS)	NASA (CRS)	Success	Success[f]
+(drone ship)
+Fourth of six new cargo missions NASA awarded in 2015 to SpaceX under the CRS-2 contract to be flown after the initial 20 missions of phase 1 were completed in 2020.[197] First time SpaceX launched 5 rockets within the same calendar month. The ELaNa 38 mission, consisting of 4 cubesats, launched on this flight.[268] SpaceX achieved the feat of 100 successful orbital rocket booster landings in this mission, coinciding with the 6th anniversary of its first booster landing. The rough seas led to the Octograbber robot not being able to secure the booster to the deck, leading to both the booster, droneship and the Octagrabber robot being heavily damaged in transit.[267]
+2022
+There were 61 Falcon launches in 2022: one Falcon Heavy and 60 Falcon 9. Older environmental regulatory documents had showed that, in addition to launches from Vandenberg, SpaceX mentioned planning for up to 70 launches each year from its two Florida launch sites when it filed an environmental assessment in February 2020.[132] In January 2022, information became public that SpaceX had intended to increase the pace of launches to 52 during 2022, after launching a record 31 times in 2021.[133] In March 2022, Elon Musk stated that SpaceX was aiming for 60 Falcon launches in 2022.[269] In the event, SpaceX did increase their launch cadence, exceeding the previous yearly record of 31 launches in just the first 29 weeks of 2022.[270] 13 of the Falcon 9 launches were from Vandenberg. SpaceX launched over 633 tonnes this year or 1.15 times the mass of a Falcon 9 rocket just before takeoff (exclusive of undisclosed payload masses).[271]
+Flight No.	Date and
+time (UTC)	Version,
+booster[c]	Launch
+site	Payload[d]	Payload mass	Orbit	Customer	Launch
+outcome	Booster
+landing
+135	6 January 2022
+21:49[272][273]	F9 B5 ♺
+B1062.4	KSC,
+LC-39A	Starlink Group 4-5
+(49 satellites)[274]	~14,500 kg (32,000 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+After the weather-related damage to the landed booster in the previous launch, SpaceX changed the Starlink launch trajectory from Northeast to Southeast intending to increase odds of good booster and fairing recovery conditions in the winter months, on a course just North of the Bahamas via a plane change maneuver to line up with the proper orbital plane for the Starlink satellites.[272] This was the first rocket launch of 2022.
+136	13 January 2022
+15:25:38[275]	F9 B5 ♺
+B1058.10	CCSFS,
+SLC-40	Transporter-3: (105 payloads Smallsat Rideshare)[276]	Unknown[e]	SSO	Various	Success	Success
+(ground pad)
+Dedicated SmallSat Rideshare mission to Sun-synchronous orbit. A total of 105 payloads including: Planet Labs SuperDoves (×44),[277] and some of the customer payloads on SpaceFlight's SXRS-6 mission.[278] In addition, four secret satellites, likely test satellites built by SpaceX based on the Starshield bus (based on Starlink Block v1.5 or v2.0 technology),[279] were also deployed for the US army. Their purpose has not been revealed, but is likely either technical demonstration, communications, earth observation or signals intelligence.[280] In 2020, SpaceX had won a US$149 million contract for developing and launching missile tracking satellites based on the Starlink architecture.[281]
+137	19 January 2022
+02:02:40[282]	F9 B5 ♺
+B1060.10	KSC,
+LC-39A	Starlink Group 4-6
+(49 satellites)	~14,500 kg (32,000 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast Starlink network launch to a 540 km circular orbit at an inclination of 53.2°. Second Starlink launch where SpaceX has significantly customized a Starlink launch trajectory to optimize for booster recovery after Starlink Group 4–5.[283]
+138	31 January 2022
+23:11[284]	F9 B5 ♺
+B1052.3	CCSFS,
+SLC-40	CSG-2	2,205 kg (4,861 lb)	SSO	ASI	Success	Success
+(ground pad)
+Second COSMO-SkyMed 2nd-generation satellite. Originally scheduled to launch in 2021, on an Arianespace Vega-C launch vehicle, resulting delays caused by the pandemic and two Vega launch failures led to ASI purchasing a Falcon 9 launch contract in September 2021, for the 2.2-ton satellite. First launch of a converted Falcon 9 that was previously used as a FH side booster.[285][286]
+139	2 February 2022
+20:27[287]	F9 B5
+B1071.1	VSFB,
+SLC-4E	NROL-87	Classified	SSO	NRO	Success[288]	Success
+(ground pad)
+Classified payload. The contract requirements for this launch called for a 512 km Sun-synchronous orbit at 97.4° inclination.[289]
+140	3 February 2022
+18:13[290]	F9 B5 ♺
+B1061.6	KSC,
+LC-39A	Starlink Group 4-7
+(49 satellites)	~14,500 kg (32,000 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+A fairing half on this mission was flown and recovered for a record 6th time. A G2-rated geomagnetic storm on 4 February significantly increased the atmospheric density at the initial deployment orbit, resulting in 38 satellites reentering over the following eight days.[291][292]
+141	21 February 2022
+14:44[293]	F9 B5 ♺
+B1058.11	CCSFS,
+SLC-40	Starlink Group 4-8 (46 satellites)	~13,600 kg (30,000 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+Mission was the first Group 4 mission to feature 2 upper stage burns like v1.0 Starlink launches, with deployment of the 46 satellites approximately 1 hour after lift-off into a higher circular orbit. This is aimed at reducing the risk of high drag that caused 38 of the Group 4-7 satellites to fail reaching their intended orbits, and instead, reenter shortly after launch.[294]
+142	25 February 2022
+17:12[295]	F9 B5 ♺
+B1063.4	VSFB,
+SLC-4E	Starlink Group 4-11 (50 satellites)[296]	~14,750 kg (32,520 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+A West Coast Starlink network launch to a 540 km circular orbit at an inclination of 53.2°.
+143	3 March 2022
+14:25[297]	F9 B5 ♺
+B1060.11	KSC,
+LC-39A	Starlink Group 4-9 (47 satellites)	~13,900 kg (30,600 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast Starlink network launch to a 540 km circular orbit at an inclination of 53.2°. First time one of SpaceX multipurpose ships, Bob, retrieved both fairing halves and towed the droneship and the Falcon booster on its return journey to Port Canaveral.
+144	9 March 2022
+13:45[298]	F9 B5 ♺
+B1052.4[299]	CCSFS,
+SLC-40	Starlink Group 4-10
+(48 satellites)	~14,160 kg (31,220 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+This was the 40th Starlink launch. Starlink 3680 (or Starlink 2022-025P) launched in this stack has maneuvered and moved to Shell 1 of starlink satellites. Possibly some other satellites in this stack will also joining the Shell 1 starlinks in near future.[300]
+145	19 March 2022
+04:42[301]	F9 B5 ♺
+B1051.12	CCSFS,
+SLC-40	Starlink Group 4-12 (53 satellites)[302]	~16,250 kg (35,830 lb)[303]	LEO	SpaceX	Success	Success
+(drone ship)
+First time a Falcon 9 first-stage booster flew and landed for the twelfth time. This was, at the time, the heaviest Falcon 9 payload to LEO enabled by optimizations to the launch setup and flight profile,[304] this record was clearly beaten in August 2022.[305]
+146	1 April 2022
+16:24[306]	F9 B5 ♺
+B1061.7	CCSFS,
+SLC-40	Transporter-4: (40 payloads Smallsat Rideshare)	Unknown[e]	SSO	Various	Success	Success
+(drone ship)
+Dedicated SmallSat Rideshare mission to Sun-synchronous orbit. The heaviest payload aboard was Environmental Mapping and Analysis Program (EnMAP) German satellite. Other payloads included D-Orbit ION, Hawk-6A/6B/6C, CNCE (2), Heron Mk II, GNOMES-3, Kilimanjaro-1.[307][308]
+147	8 April 2022
+15:17:11[309][310]	F9 B5 ♺
+B1062.5	KSC,
+LC-39A	Axiom-1
+(Crew Dragon C206.3 Endeavour ♺ )[309]	~13,000 kg (29,000 lb)	LEO (ISS)	Axiom Space	Success	Success
+(drone ship)
+Announced in March 2020, the flight is the first fully private flight to the ISS. Crew Dragon is commanded by Axiom professional astronaut Michael López-Alegría.[311] Larry Connor is the pilot, and Mark Pathy and Eytan Stibbe are mission specialists.
+148	17 April 2022
+13:13:12[312]	F9 B5 ♺
+B1071.2	VSFB,
+SLC-4E	NROL-85 (Intruder 13A (NOSS-3 9A) and Intruder 13B (NOSS-3 9B))[313]	Classified	LEO	NRO	Success[314]	Success
+(ground pad)
+Classified mission awarded to SpaceX in February 2019.[315] The contract requirements for this launch called for a 1220 km × 1024 km orbit at 63.5° inclination, which corresponds to a Naval Reconnaissance (Intruder) mission.[316] With only a year before the launch, the launch site was switched from Florida to California at no extra cost in exchange for reusing a previously flown booster.[317]
+149	21 April 2022
+17:51[318]	F9 B5 ♺
+B1060.12	CCSFS,
+SLC-40	Starlink Group 4-14 (53 satellites)	~16,250 kg (35,830 lb)[303]	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast Starlink network launch to a 540 km circular orbit at an inclination of 53.2°.
+150	27 April 2022
+07:52[319]	F9 B5 ♺
+B1067.4[320]	KSC,
+LC-39A	Crew-4[112]
+(Crew Dragon C212.1 Freedom)[321]	~13,000 kg (29,000 lb)	LEO (ISS)	NASA (CTS)[22]	Success	Success
+(drone ship)
+Fourth Crew Dragon CCP mission. Carried four astronauts and 100 kg (220 lb) of cargo to the ISS and function as a lifeboat to evacuate astronauts from ISS in case of an emergency.[22] NASA's Kjell Lindgren, Bob Hines, and Jessica Watkins as well as ESA's Samantha Cristoforetti assigned to fly this mission.[322]
+151	29 April 2022
+21:27[323]	F9 B5 ♺
+B1062.6	CCSFS,
+SLC-40	Starlink Group 4-16 (53 satellites)	~16,250 kg (35,830 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast Starlink network launch to a 540 km circular orbit at an inclination of 53.2°. This mission set four SpaceX turnaround records: Booster turnaround at 21 days (previously 27 days), pad turnaround at 8 days, Just Read the Instructions departed just 19 hours after arriving, and it was the first time there were 6 launches in a single calendar month.
+152	6 May 2022
+09:46[324]	F9 B5 ♺
+B1058.12	KSC,
+LC-39A	Starlink Group 4-17 (53 satellites)	~16,250 kg (35,830 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast Starlink network launch to a 540 km circular orbit at an inclination of 53.2°.
+153	13 May 2022
+22:07[325]	F9 B5 ♺
+B1063.5	VSFB,
+SLC-4E	Starlink Group 4-13 (53 satellites)[326]	~16,250 kg (35,830 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+A West Coast Starlink network launch to a 540 km circular orbit at an inclination of 53.2°.
+154	14 May 2022
+20:40[327]	F9 B5 B1073.1	CCSFS,
+SLC-40	Starlink Group 4-15 (53 satellites)	~16,250 kg (35,830 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast Starlink network launch to a 540 km circular orbit at an inclination of 53.2°. First Starlink launch on a new first-stage booster.
+155	18 May 2022
+10:59[328]	F9 B5 ♺
+B1052.5	KSC,
+LC-39A	Starlink Group 4-18 (53 satellites)	~16,250 kg (35,830 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast Starlink network launch to a 540 km circular orbit at an inclination of 53.2°.
+156	25 May 2022
+18:35[329]	F9 B5 ♺
+B1061.8[330]	CCSFS,
+SLC-40	Transporter-5: (59 payloads Smallsat Rideshare)	Unknown[e]	SSO	Various	Success	Success
+(ground pad)
+Dedicated SmallSat Rideshare mission launching 59 satellites to Sun-synchronous orbit. Mission included 3 different payload dispensers by Momentus (Vigoride space tug), Spaceflight, and D-Orbit, and payloads from 11 countries by Exolaunch.[331]
+157	8 June 2022
+21:03[332]	F9 B5 ♺
+B1062.7[332]	CCSFS,
+SLC-40	Nilesat-301[333]	~4,100 kg (9,000 lb)[334]	GTO	Nilesat	Success	Success
+(drone ship)
+Built by Thales Alenia Space, the Egyptian satellite will be stationed at 7.0° west.[333] SpaceX successfully executed the furthest downrange landing of a Falcon 9 booster on this mission by landing 687 km (427 mi) away from the launch site.[334]
+158	17 June 2022
+16:09[335]	F9 B5 ♺
+B1060.13[335]	KSC,
+LC-39A	Starlink Group 4-19 (53 satellites)	~16,250 kg (35,830 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast Starlink network launch to a 540 km circular orbit at an inclination of 53.2°. This mission marked SpaceX's 100th reuse of a booster, 50th consecutive landing, 1st booster to fly for a 13th time, and 50th SpaceX launch from LC-39A.[336]
+159	18 June 2022
+14:19[337][338]	F9 B5 ♺
+B1071.3	VSFB,
+SLC-4E	SARah 1[339]	~4,000 kg (8,800 lb)[340]	SSO	German Intelligence Service	Success[341]	Success
+(ground pad)
+Airbus-built phased-array-antenna satellite intended to upgrade the German SAR-Lupe surveillance satellites.[342]
+160	19 June 2022
+04:27[343]	F9 B5 ♺
+B1061.9[343]	CCSFS,
+SLC-40	Globalstar-2 M087 (FM15)[344]
+USA 328-331[345][346]	~700 kg (1,500 lb)
+(excluding secret payloads)	LEO	Globalstar
+Unknown US Government Agency	Success	Success
+(drone ship)
+Mission launched the first Globalstar satellite since 2013, a spare satellite that was still waiting on ground for its launch.[343] The mission was not known by the public until early June, when a FCC filing appeared.[347] The low mass of the satellite, together with the lack of return to the launch site and the use of an unconventional payload dispenser, led to speculations about there being a second, undisclosed governmental payload.[348] After launch, four USA designated satellites were cataloged, confirming the presence of four secret US Government payloads that were released between second-stage cutoff 1 and second-stage startup 2.[345][280][346] Likely the satellites were test satellites built by SpaceX based on the Starshield bus (based on Starlink Block v1.5 or v2.0 technology), based on the deployment structure seen in the launch video.[279] Their purpose has not been revealed, but is likely either technical demonstration, communications, earth observation or signals intelligence. SpaceX set a new record for the shortest time between two Falcon 9 launches at 14 hours and 8 minutes. The previous record time was 15 hours and 17 minutes, set between the Starlink Group 4-4 and Türksat 5B missions.
+161	29 June 2022
+21:04[349]	F9 B5 ♺
+B1073.2[349]	CCSFS,
+SLC-40	SES-22	~3,500 kg (7,700 lb)	GTO	SES	Success	Success
+(drone ship)
+Following the award for the launch of SES-18 and SES-19, SpaceX was awarded another launch contract for SES-22. Built by Thales Alenia Space, the C-band-only satellite will be stationed at 135° west and is expected to start operations by early August 2022.[350]
+162	7 July 2022
+13:11[351]	F9 B5 ♺
+B1058.13[352]	CCSFS,
+SLC-40	Starlink Group 4-21 (53 satellites)	~16,250 kg (35,830 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast Starlink network launch to a 53.2° inclination orbit at 540 km altitude.
+163	11 July 2022
+01:39[353]	F9 B5 ♺
+B1063.6	VSFB,
+SLC-4E	Starlink Group 3-1 (46 satellites)[354]	~14,100 kg (31,100 lb)[355]	SSO	SpaceX	Success	Success
+(drone ship)
+A West Coast Starlink network launch to a 97.6° inclination orbit at 560 km altitude, first launch of group 3.
+164	15 July 2022
+00:44:22[356]	F9 B5 ♺
+B1067.5	KSC,
+LC-39A	SpaceX CRS-25
+(Dragon C208.3 ♺ )[357]	2,668 kg (5,881 lb)[356]
+(excl. Dragon mass)	LEO (ISS)	NASA (CRS)	Success	Success
+(drone ship)
+Fifth of the six ISS cargo missions awarded in 2015 under the CRS-2 contract, and carried Earth Surface Mineral Dust Source Investigation (EMIT) external payload.[197]
+165	17 July 2022
+14:20[358][359]	F9 B5 ♺
+B1051.13[359]	CCSFS,
+SLC-40	Starlink Group 4-22 (53 satellites)	~16,250 kg (35,830 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast Starlink network launch to a 540 km circular orbit at an inclination of 53.2°. It was the first time SpaceX launched an 8th rocket within 30 days.[360]
+166	22 July 2022
+17:39[270]	F9 B5 ♺
+B1071.4	VSFB,
+SLC-4E	Starlink Group 3-2 (46 satellites)[361]	~14,100 kg (31,100 lb)	SSO	SpaceX	Success	Success
+(drone ship)
+A West Coast Starlink network launch to a 560 km Sun-synchronous orbit at an inclination of 97.6°.
+167	24 July 2022
+13:38[362]	F9 B5 ♺
+B1062.8	KSC,
+LC-39A	Starlink Group 4-25 (53 satellites)	~16,250 kg (35,830 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast Starlink network launch to a 540 km circular orbit at an inclination of 53.2°.
+168	4 August 2022
+23:08[363]	F9 B5 ♺
+B1052.6	CCSFS,
+SLC-40	Danuri (Korea Pathfinder Lunar Orbiter)[364]	~679 kg (1,497 lb)[365]	Ballistic lunar transfer (BLT)	KARI	Success	Success
+(drone ship)
+"Launch Your Photo into Deep Space Orbit" mosaic[366] (hosted)	Heliocentric	Tesla	Success
+South Korea's first lunar mission.
+Second stage included a hosted promotional payload by automotive manufacturer Tesla, which in 2018 offered a referral bonus to customers where they could send an image of their choice to be laser-etched into a mosaic plaque and launched to deep space.[366][367]
+
+169	10 August 2022
+02:14[368]	F9 B5 ♺
+B1073.3[369]	KSC,
+LC-39A	Starlink Group 4-26[370] (52 satellites)	~16,000 kg (35,000 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast Starlink network launch to a 540 km circular orbit at an inclination of 53.2°.
+170	12 August 2022
+21:40:20[371][372]	F9 B5 ♺
+B1061.10	VSFB,
+SLC-4E	Starlink Group 3-3[373] (46 satellites)	~14,100 kg (31,100 lb)	SSO	SpaceX	Success	Success
+(drone ship)
+A West Coast Starlink network launch to a 560 km Sun-synchronous orbit at an inclination of 97.6°.
+171	19 August 2022
+19:21:20[374]	F9 B5 ♺
+B1062.9	CCSFS,
+SLC-40	Starlink Group 4-27[375] (53 satellites)	~16,250 kg (35,830 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast Starlink network launch to a 540 km circular orbit at an inclination of 53.2°.
+172	28 August 2022
+03:41[305]	F9 B5 ♺
+B1069.2[376]	CCSFS,
+SLC-40	Starlink Group 4-23[377] (54 satellites)[378]	~16,700 kg (36,800 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+This was the heaviest payload Falcon 9 had launched until this was beaten in January 2023.[379] The launch carried an East Coast Starlink network launch to a 540 km circular orbit at an inclination of 53.2°. This flight, Group 4-23, was moved from 39A to 40 to deconflict with Artemis I operations at 39B. Booster B1069.2 was repaired after suffering damage to all 9 engines upon its initial landing.[380]
+173	31 August 2022
+05:40[381]	F9 B5 ♺
+B1063.7	VSFB,
+SLC-4E	Starlink Group 3-4[382] (46 satellites)	~14,200 kg (31,300 lb)	SSO	SpaceX	Success	Success
+(drone ship)
+A West Coast Starlink network launch to a 560 km Sun-synchronous orbit at an inclination of 97.6°.
+174	5 September 2022
+02:09[383]	F9 B5 ♺
+B1052.7	CCSFS,
+SLC-40	Starlink Group 4-20 (51 satellites)
+Sherpa-LTC2	~16,000 kg (35,000 lb)[384][385]	LEO	SpaceX
+Spaceflight Industries	Success	Success
+(drone ship)
+An East Coast Starlink network launch to a 540 km circular orbit at an inclination of 53.2°. Sherpa-LTC2 space tug's sole hosted payload was Boeing's Varuna Technology Demonstration Mission, a pathfinder for a planned constellation of broadband satellites. Initial orbit of Sherpa LTC-2 is same as that of Starlink but later it will fire its thrusters to reach a 54° inclination low Earth orbit located at 1060 km altitude.
+175	11 September 2022
+01:20[386]	F9 B5 ♺
+B1058.14	KSC,
+LC-39A	Starlink Group 4-2[387] (34 satellites)
+BlueWalker-3	~11,938 kg (26,319 lb)	LEO	SpaceX
+AST SpaceMobile	Success	Success
+(drone ship)
+Bluewalker-3 is a rideshare[388] mission launched to 513 km altitude 53° inclination.[389] B1058 became the first booster to be launched and recovered fourteen times. In addition to this, the 2nd stage first executed two burns to deploy the Bluewalker 3, followed by executing two more burns to deploy the Starlinks to a 330 km altitude 53.2° inclination orbit, concluding with deorbit burn, which made it one of the most complex F9 missions up to date.[390]
+176	19 September 2022
+00:18[391]	F9 B5 ♺
+B1067.6[392]	CCSFS,
+SLC-40	Starlink Group 4-34 (54 satellites)[393]	~16,700 kg (36,800 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast Starlink network launch to a 540 km circular orbit at an inclination of 53.2°.
+177	24 September 2022
+23:32[394]	F9 B5 ♺
+B1073.4[395]	CCSFS,
+SLC-40	Starlink Group 4-35 (52 satellites)[396]	~16,100 kg (35,500 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast Starlink network launch to a 540 km circular orbit at an inclination of 53.2°.
+178	5 October 2022
+16:00[397]	F9 B5
+B1077.1	KSC,
+LC-39A	Crew-5[112]
+(Crew Dragon C210.2 Endurance ♺ )	~13,000 kg (29,000 lb)	LEO (ISS)	NASA (CTS)[22]	Success	Success
+(drone ship)
+Fifth USCV launches out of NASA award of six Crew Dragon mission, to carry four astronauts and 100 kg (220 lb) of cargo to the ISS as well as feature a lifeboat function to evacuate astronauts from ISS in case of an emergency.[22] NASA Astronauts Nicole Mann, Josh Cassada, JAXA Astronaut Koichi Wakata, and Roscosmos Cosmonaut Anna Kikina will fly on this mission.[398] This will be the first Russian Cosmonaut to fly on a US Commercial Crew Vehicle as part of a NASA-Roscosmos seat barter agreement.[399]
+179	5 October 2022
+23:10[400]	F9 B5 ♺
+B1071.5	VSFB,
+SLC-4E	Starlink Group 4-29 (52 satellites)	~16,100 kg (35,500 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+A West Coast Starlink network launch to a 540 km circular orbit at an inclination of 53.2°. SpaceX set a new record for the shortest time between two Falcon 9 launches at 7 hours and 10 minutes. The previous record time was 14 hours and 8 minutes, set between the SARah 1 and Globalstar-2 M087 (FM15) with USA 328-331 missions.
+180	8 October 2022
+23:05[401]	F9 B5 ♺
+B1060.14[402]	CCSFS,
+SLC-40	Galaxy 33 and Galaxy 34 (2 satellites)[403]	7,350 kg (16,200 lb)	GTO[404]	Intelsat	Success	Success
+(drone ship)
+Northrop Grumman-built satellites for C-band clearing.[405][406] At 7,350 kg total mass, this launch was one of the heaviest GTO SpaceX launches to date. This necessitated that the satellite be launched into a lower-energy orbit than a usual GTO, with its initial apogee at roughly 19,800 km (12,300 mi).[407]
+181	15 October 2022
+05:22[408]	F9 B5 ♺
+B1069.3	CCSFS,
+SLC-40	Hotbird 13F	~4,500 kg (9,900 lb)	GTO	Eutelsat	Success	Success
+(drone ship)
+Box containing 2 Adidas Al Rihla balls (hosted)	~1 kg (2.2 lb)	Suborbital
+(max 123 km (76 mi))	FIFA, Qatar Airways and SpaceX	Success
+Built by Airbus, the 4500 kg satellite will maneuver to a 13° east orbit.[409] The satellite reached a supersynchronous geostationary transfer orbit of 376 km × 55,950 km inclined at 27.1°.
+First stage B1069.3 included a hosted promotional payload by FIFA, that was a box powered by starlink containing 2 Adidas Al Rihla (the Journey) balls, that were to be used in 2022, FIFA World Cup in Qatar for opening its Starlink office in Doha, Qatar.[410] These match balls were launched and brought back by landing on the droneship surviving the stresses of the booster. Later, they were taken out and shipped back to Qatar for the world cup. This was the first payload on a Falcon 9 booster and thus showed the ease of reusability.[411]
+
+182	20 October 2022
+14:50[412]	F9 B5 ♺
+B1062.10[413]	CCSFS,
+SLC-40	Starlink Group 4-36 (54 satellites)	~16,700 kg (36,800 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast Starlink network launch to a 540 km circular orbit at an inclination of 53.2°. The 48th Falcon 9 launch of the year beat the record launches in a year for a vehicle type held by Soyuz-U in 1979.[8][414]
+183	28 October 2022
+01:14:10[415]	F9 B5 ♺
+B1063.8	VSFB,
+SLC-4E	Starlink Group 4-31[416] (53 satellites)	~16,400 kg (36,200 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+A West Coast Starlink network launch to a 540 km circular orbit at an inclination of 53.2°.
+FH 4	1 November 2022
+13:41[417]	Falcon Heavy B5
+B1066 (core)	KSC,
+LC-39A	USSF-44 (Shepherd Demonstration & LDPE-2)[418]	~3,750 kg (8,270 lb)	GEO	USSF, Millennium Space Systems and Lockheed Martin Space	Success	No attempt
+B1064.1 (side)	Success
+(ground pad)
+B1065.1 (side)	Success
+(ground pad)
+Classified payload totaling 3,750 kg (8,270 lb) using new side boosters and center core. The core lacked any fins and landing gear, as it was deliberately expended, underwent the most energetic reentry, and impacted at 1,300 km (810 mi) downrange, 8.3% further than STP-2 mission,[419] while the two side boosters were recovered, marking the 150th and 151st successful landing respectively, and 21st landing at LZ-1 and 4th at LZ-2. It was the 50th launch of a Falcon-family rocket this year. The launch carried Shepherd Demonstration for the Space Force, intended to "test new technologies to enhance safe and responsible rendezvous and proximity operations",[420] as well as the LDPE-2 space tug (with hosted payloads), Tetra-1,[421] Alpine, LINUSS A1 and A2. Third flight featuring a Falcon long coast mission-extension kit, which equipped the second stage with a dark-painted band (for thermal control), extra COPVs for pressurization control, and additional TEA-TEB ignition fluid. The upgrades afforded the second stage with the endurance needed to inject the payloads directly into geosynchronous orbit six hours after launch.[422]
+184	3 November 2022
+05:22[423]	F9 B5 ♺
+B1067.7	CCSFS,
+SLC-40	Hotbird 13G	~4,500 kg (9,900 lb)	GTO	Eutelsat	Success	Success
+(drone ship)
+Built by Airbus, the 4500 kg satellite will maneuver to a 13° east orbit.[409] 50th Falcon 9 launch in 2022. The satellite reached a supersynchronous geostationary transfer orbit of 410 km × 57,503 km inclined at 27.7°.
+185	12 November 2022
+16:06[424]	F9 B5 ♺
+B1051.14	CCSFS,
+SLC-40	Galaxy 31 and Galaxy 32 (2 satellites)	~6,600 kg (14,600 lb)	GTO	Intelsat	Success	No attempt
+Maxar Technologies built satellites for C-band clearing.[406][405] Intelsat says that it paid SpaceX an additional fee to devote all of the Falcon 9 rocket's propellant to deliver the satellites into a higher orbit than the normal sub-synchronous orbit, given the payload's high total mass of 6,600 kg (14,600 lb). The Falcon 9 first-stage booster B1051, flying on its 14th flight, was expended, the first deliberately expended Falcon 9 booster since B1046 in January 2020.[425] The satellites reached the supersynchronous geostationary transfer orbit of 283 km × 58,433 km inclined at 24.2°.
+186	23 November 2022
+02:57[426]	F9 B5 ♺
+B1049.11[427]	CCSFS,
+SLC-40	Eutelsat 10B	5,500 kg (12,100 lb)[428]	GTO	Eutelsat	Success	No attempt
+Built by Thales Alenia Space, the satellite was launched into a geostationary transfer orbit targeting the 10° east GSO slot. The Falcon 9 first-stage booster B1049 flew its 11th mission and was expended into the Atlantic Ocean following the launch for the same reason as the previous Galaxy 31 and 32 mission's booster B1051. The satellite reached the supersynchronous geostationary transfer orbit of 261 km × 59,831 km inclined at 22.8°. B1049 flew with a Test/Spare Block 4 interstage on this flight since it donated its interstage to B1052 after its penultimate flight.[429][430]
+187	26 November 2022
+19:20[431]	F9 B5
+B1076.1	KSC,
+LC-39A	SpaceX CRS-26
+(Dragon C211.1)[432]	3,528 kg (7,778 lb)[433]	LEO (ISS)	NASA (CRS)	Success	Success
+(drone ship)
+Last of the six additional cargo missions NASA awarded in 2015 to SpaceX under the CRS-2 contract flown after the initial 20 missions of phase 1 were completed in 2020.[197]
+188	8 December 2022
+22:27[434]	F9 B5 ♺
+B1069.4	KSC,
+LC-39A	OneWeb Flight #15 / SpaceX Flight 1 (40 satellites)	6,000 kg (13,000 lb)	Polar LEO	OneWeb	Success	Success
+(ground pad)
+Following the Russian invasion of Ukraine, OneWeb suspended launches on Soyuz rockets.[435] In March 2022, OneWeb announced that they had signed an agreement with SpaceX to resume satellite launches.[436] This was the first commercial (non-Starlink, non-NASA, non-government, non-crewed) satellite launch from LC-39A since Arabsat-6A in 2019, and the first on Falcon 9 since Es'hail 2 in 2018.
+189	11 December 2022
+07:38[437]	F9 B5 ♺
+B1073.5	CCSFS,
+SLC-40	Hakuto-R Mission 1[438]
+Emirates Lunar Mission
+Lunar Flashlight[439]	~1,000 kg (2,200 lb)[440][441]	Ballistic lunar transfer (BLT)	ispace
+MBRSC
+JAXA
+NASA	Success	Success
+(ground pad)
+ispace's Hakuto-R (for Reboot) lunar lander is derived from the Hakuto project that was one of the defunct Google Lunar X Prize contestants. Hakuto-R carries the Rashid rover, built by MBRSC and JAXA built Transformable Lunar Robot. A separate 2023, Hakuto-R mission will include a Japanese rover.[442][443] The Canadian Space Agency has sponsored three private payloads with ispace: Mission Control Space Services will have a computer fly on the Rashid rover to test artificial intelligence algorithms, Canadensys Aerospace Corporation is arranging a 360-degree camera to fly, and NGC Aerospace Ltd will take pictures from orbit to compare them to maps in order to test a navigation system.[444] Lunar Flashlight is a JPL-developed CubeSat that will scan for water ice deposits on the Moon; it was remanifested as a secondary payload after missing its integration window on the Artemis 1 launch. First Falcon 9 booster landing on LZ-2.
+190	16 December 2022
+11:46[445]	F9 B5 ♺
+B1071.6	VSFB,
+SLC-4E	Surface Water and Ocean Topography (SWOT)[446]	~2,200 kg (4,900 lb)[447]	LEO	NASA/CNES	Success	Success
+(ground pad)
+American–European satellite intended to measure the surface altitude of water bodies with centimeter-level precision.[448]
+191	16 December 2022
+22:48[449]	F9 B5 ♺
+B1067.8	CCSFS,
+SLC-40	O3b mPOWER 1 & 2	~4,100 kg (9,000 lb)	MEO	SES	Success	Success
+(drone ship)
+In September 2019, SES signed a contract to launch the first part of their seven MEO satellites for its O3b low-latency, high-performance connectivity services.[450][451]
+192	17 December 2022
+21:32[449]	F9 B5 ♺
+B1058.15	KSC,
+LC-39A	Starlink Group 4-37[452] (54 satellites)	~16,700 kg (36,800 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast Starlink network launch to a 540 km circular orbit at an inclination of 53.2°. B1058 became the first booster to be launched and recovered fifteen times, exceeding its prior record.
+193	28 December 2022
+09:34[453]	F9 B5 ♺
+B1062.11	CCSFS,
+SLC-40	Starlink Group 5-1 (54 satellites)	~16,700 kg (36,800 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast Starlink network launch targeting a 43° inclination orbit.[454] This launch was the first launch of Starlink's second-generation constellation. SpaceX has said that under the new FCC license they are now able to deploy satellites to new orbits that will add more capacity to their network.[455]
+194	30 December 2022
+07:38[456]	F9 B5 ♺
+B1061.11	VSFB,
+SLC-4E	EROS-C3[457]	~400 kg (880 lb)	Retrograde LEO	ImageSat International	Success	Success
+(ground pad)
+Israeli electro-optical Earth observation satellite based on the OPTSAT-3000 satellite. This was the first SpaceX launch to a low-inclination retrograde orbit, previous retrograde orbits having been polar or Sun-synchronous. It targeting an ~140° inclination orbit. This launch marked the first time SpaceX completed 7 launches in a calendar month and the final rocket launch of 2022. SpaceX's Falcon family thus equaled the yearly world record for most successful launches by any rocket family, first set by the R-7 family in 1980 after this launch. B1061 became the only booster to land on all of SpaceX's different landing zones and drone ships except the rarely used LZ-2.
+2023
+SpaceX launched vehicles of the Falcon family 96 times (91 Falcon 9 and 5 Falcon Heavy launches) in 2023. SpaceX CEO, Elon Musk, and SpaceX President, Gwynne Shotwell, had stated in late 2022 and early 2023 respectively, that the company would attempt up to 100 Falcon launches in 2023.[458][459] In any event, SpaceX did increase their launch cadence, exceeding their previous yearly record of 61 launches and the previous yearly world record of 64 launches by a rocket family by September 2023. Then they went on to become the first[citation needed] family to complete 70 launches, 80 launches, 90 launches in a year by October, November and December 2023 respectively.[460] Notably, SpaceX completed 100 launches (including Starship, two of which have flown this year) in a consecutive 365 days (a year) time period between 8 December 2022, 22:27 UTC and 8 December 2023, 8:03 UTC.[461] Excluding undisclosed payload masses, SpaceX has launched over 1,238 tonnes of payload to orbit this year,[462] or 2.25 times the mass of a Falcon 9 rocket ready for takeoff.[463]
+Flight No.	Date and
+time (UTC)	Version,
+booster[c]	Launch
+site	Payload[d]	Payload mass	Orbit	Customer	Launch
+outcome	Booster
+landing
+195	3 January 2023
+14:56[464]	F9 B5 ♺
+B1060.15[465]	CCSFS,
+SLC-40	Transporter-6: (115 payloads Smallsat Rideshare)	Unknown[e]	SSO	Various	Success	Success
+(ground pad)
+Dedicated SmallSat Rideshare mission to Sun-synchronous orbit. It included six space tugs, also known as orbital transfer vehicles (OTV), which are two of D-Orbit's ION Satellite Carriers, Epic Aerospace's Chimera LEO 1, Momentus's Vigoride-5, Skykraft's OTV and Launcher's Orbiter SN1.[466][467] Orbiter SN1 failed shortly after deployment from Falcon and before deploying payloads. One of the payloads, EWS RROCI failed to deploy from Falcon 9 and the satellite re-entered with the upper stage.[468] This was not a SpaceX failure as brokered dispensers and deployers are used on Transporter missions.[469]
+196	10 January 2023
+04:50[470]	F9 B5 ♺
+B1076.2	CCSFS,
+SLC-40	OneWeb Flight #16 / SpaceX Flight 2[436][471] (40 satellites)[472]	6,000 kg (13,000 lb)	Polar LEO	OneWeb	Success	Success
+(ground pad)
+Following the Russian invasion of Ukraine, OneWeb suspended launches on Soyuz rockets.[435] In March 2022, OneWeb announced that they had signed an agreement with SpaceX to resume satellite launches.[436]
+FH 5	15 January 2023
+22:56[473]	Falcon Heavy B5
+B1070 (core)	KSC,
+LC-39A	USSF-67 (CBAS-2 & LDPE-3A)[474]	~3,750 kg (8,270 lb)	GEO	USSF	Success	No attempt
+B1064.2 (side) ♺	Success
+(ground pad)
+B1065.2 (side) ♺	Success
+(ground pad)
+First launch of Phase 2 US Air Force contract. US$316 million cost for the fiscal year of 2022, for the first flight,[475] mostly includes the cost of an extended payload fairing, upgrades to the company's West Coast launch pad at Vandenberg Space Force Base in California, and a vertical integration facility required for NRO missions, while the launching price does not increase.[476] SpaceX deliberately expended the center core, which thus lacked grid fins and landing gear, while the two side-boosters were recovered at Landing Zones 1 and 2, and it was the fourth second stage featuring Falcon long coast mission-extension kit as the mission requirements are same as the USSF-44 mission.[477]
+197	18 January 2023
+12:24[478]	F9 B5 ♺
+B1077.2	CCSFS,
+SLC-40	USA-343 / GPS III-06 (Amelia Earhart)[67][208]	4,352 kg (9,595 lb)	MEO	USSF[56]	Success	Success
+(drone ship)
+Space vehicle manufacturing contract awarded February 2013.[210] In September 2018, the space vehicle was integrating harnesses.[60] In March 2018, the Air Force announced it had awarded the launch contract for three GPS satellites to SpaceX.
+198	19 January 2023
+15:43[479]	F9 B5
+B1075.1	VSFB,
+SLC-4E	Starlink Group 2-4 (51 satellites)	15,000 kg (33,000 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+A West Coast Starlink network launch to a 570 km circular orbit at an inclination of 70°. This launch was the first launch of Starlink satellites using a non-reused booster.
+199	26 January 2023
+09:32[480]	F9 B5 ♺
+B1067.9	CCSFS,
+SLC-40	Starlink Group 5-2 (56 satellites)	~17,400 kg (38,400 lb)[379]	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast Starlink launch for the Generation 2 network. Heaviest payload flown on Falcon 9.[379]
+200	31 January 2023
+16:15[481]	F9 B5 ♺
+B1071.7[482]	VSFB,
+SLC-4E	Starlink Group 2-6[483] (49 satellites)
+ION SCV009 Eclectic Elena[484]	~15,200 kg (33,500 lb)	LEO	SpaceX
+D-Orbit	Success	Success
+(drone ship)
+A West Coast Starlink network launch to a 570 km circular orbit at an inclination of 70°.
+201	2 February 2023
+07:58[481]	F9 B5 ♺
+B1069.5	KSC,
+LC-39A	Starlink Group 5-3 (53 satellites)[485]	16,500 kg (36,400 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast Starlink launch for the Generation 2 network.
+202	7 February 2023
+01:32[486]	F9 B5 ♺
+B1073.6[487]	CCSFS,
+SLC-40	Amazonas Nexus	4,146 kg (9,140 lb)[488]	GTO	Hispasat	Success	Success
+(drone ship)
+A high-throughput telecommunications satellite.[489] Hosted payloads included USSF Pathfinder 2[490] and Tele Greenland A/S's GreenSat.[491]
+203	12 February 2023
+05:10[492]	F9 B5 ♺
+B1062.12[493]	CCSFS,
+SLC-40	Starlink Group 5-4 (55 satellites)[494]	17,100 kg (37,700 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast Starlink launch for the Generation 2 network. This launch marked a pad turn around record for SpaceX; the launch occurred five days, three hours, and 38 minutes after SpaceX's previous mission from pad 40 at Cape Canaveral.[495]
+204	17 February 2023
+19:12[492]	F9 B5 ♺
+B1063.9[496]	VSFB,
+SLC-4E	Starlink Group 2-5 (51 satellites)	15,900 kg (35,100 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+A West Coast Starlink network launch to a 570 km circular orbit at an inclination of 70°.
+205	18 February 2023
+03:59[497]	F9 B5 ♺
+B1077.3[498]	CCSFS,
+SLC-40	Inmarsat-6 F2[499][500]	5,470 kg (12,060 lb)[497]	GTO	Inmarsat	Success	Success
+(drone ship)
+Inmarsat maintained its launch option after a scheduled 2016 Falcon Heavy launch (a European Aviation Network satellite) was switched for an Ariane 5 launch in 2017.[501] This option could be used for launching Inmarsat-6B.[502] In February 2022, Inmarsat confirmed Inmarsat-6 F2 will launch on a Falcon 9 rocket.[499] The satellite reached the supersynchronous geostationary transfer orbit of 387 km × 41,592 km inclined at 27°.
+206	27 February 2023
+23:13[503]	F9 B5 ♺
+B1076.3[504]	CCSFS,
+SLC-40	Starlink Group 6-1[505] (21 satellites)[506]	~16,900 kg (37,300 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast Starlink launch to their Generation 2 network. First launch of downsized Starlink V2 satellites – officially referred to as the F9-2 bus, but colloquially known as "Starlink V2 Mini". With the unknown of when Starship will be able to launch the second generation satellites, SpaceX modified the original V2 blueprint into a smaller, more compact one named “V2 Mini.” This adjustment, allowed Falcon 9 to transport these satellites, though not as many, into orbit.[507] The first launch of the second satellites occurred on Monday, February 27, 2023, at Cape Canaveral Space Force Station in Florida on SLC-40. Falcon 9 successfully carried 21 of these satellites into orbit later that evening. SpaceX committed to reduce debris by keeping the Starlink tension rods, which hold the V2 mini satellites together, attached to the Falcon 9 second stage. These tension rods were discarded into orbit while launching earlier version of Starlink satellites.[508] Observations confirm these V2 mini satellites host two solar panels like the Starship V2 satellites.[509] This flight marked the 100th consecutive landing success of a Falcon 9 booster since 16 February 2021.
+207	2 March 2023
+05:34[510]	F9 B5
+B1078.1	KSC,
+LC-39A	Crew-6
+(Crew Dragon C206.4 Endeavour ♺ )[511]
+
+~13,000 kg (29,000 lb)	LEO (ISS)	NASA (CTS)[22]	Success	Success
+(drone ship)
+Last USCV launch out of original NASA award of six Crew Dragon missions, to carry up to four astronauts and 100 kg (220 lb) of cargo to the ISS, as well as feature a lifeboat function to evacuate astronauts from ISS in case of an emergency.[22]
+208	3 March 2023
+18:38[503]	F9 B5 ♺
+B1061.12	VSFB,
+SLC-4E	Starlink Group 2-7[512] (51 satellites)	15,900 kg (35,100 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+A West Coast Starlink network launch to a 570 km circular orbit at an inclination of 70°.
+209	9 March 2023
+19:13[513]	F9 B5 ♺
+B1062.13	CCSFS,
+SLC-40	OneWeb #17 / SpaceX OneWeb-3 (40 satellites)[436][471]	6,000 kg (13,000 lb)	LEO	OneWeb	Success	Success
+(ground pad)
+Following the Russian invasion of Ukraine, OneWeb suspended launches on Soyuz rockets.[435] In March 2022, OneWeb announced they had signed an agreement with SpaceX to resume satellite launches.[436]
+210	15 March 2023
+00:30[514]	F9 B5 ♺
+B1073.7[515]	KSC,
+LC-39A	SpaceX CRS-27
+(Dragon C209.3 ♺)[516]	2,852 kg (6,288 lb)	LEO (ISS)	NASA (CRS)	Success	Success
+(drone ship)
+Three more CRS-2 missions for Dragon 2 covering up to CRS-29 were announced in December 2020.[517] This flight used a partial boostback burn to bring the first-stage booster to its drone ship closer to the coast. The maneuver was meant to cut down processing time by decreasing the time spent moving the ship back for refurbishment.[518]
+211	17 March 2023
+19:26[519]	F9 B5 ♺
+B1071.8	VSFB,
+SLC-4E	Starlink Group 2-8 (52 satellites)	~16,200 kg (35,700 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+A West Coast Starlink network launch to a 570 km circular orbit at an inclination of 70°.
+212	17 March 2023
+23:38[519]	F9 B5 ♺
+B1069.6	CCSFS,
+SLC-40	SES-18 and SES-19	~7,000 kg (15,000 lb)	GTO	SES	Success	Success
+(drone ship)
+SpaceX launched two C-band satellites for SES, with the option to launch a third satellite on a second flight.[520][521] SpaceX set a new record for the shortest time between two Falcon 9 launches at 4 hours and 12 minutes. The previous record time was 7 hours and 10 minutes, set between the Crew-5 (Crew Dragon C210.2 Endurance) and Starlink Group 4-29 missions on October 5, 2022.
+213	24 March 2023
+15:43[522]	F9 B5 ♺
+B1067.10	CCSFS,
+SLC-40	Starlink Group 5-5[523] (56 satellites)	~17,400 kg (38,400 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast Starlink launch to their Generation 2 network.
+214	29 March 2023
+20:01[524]	F9 B5 ♺
+B1077.4	CCSFS,
+SLC-40	Starlink Group 5-10 (56 satellites)	~17,400 kg (38,400 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast Starlink launch to their Generation 2 network. This launch marked the first time SpaceX completed 8 launches in a calendar month.
+215	2 April 2023
+14:29[525]	F9 B5 ♺
+B1075.2	VSFB,
+SLC-4E	Transport and Tracking Layer (Tranche 0A) (8 Transport and 2 Tracking Layer satellites)	Unknown	LEO	SDA	Success	Success
+(ground pad)
+First launch of SDA Transport and Tracking Layer satellites. Out of 10 satellites, 8 are York Space Systems built Transport layer satellites and 2 are SpaceX-Leidos built, Starlink-derived Tracking Layer satellites.[526] The Transport layer is an interoperable mesh network of satellites intended to provide periodic low-latency and high-capacity data connectivity, while the Tracking Layer consists of interconnected satellites with cross-links and wide field of view infrared sensors for hypersonic missile tracking.
+216	7 April 2023
+04:30[527]	F9 B5 ♺
+B1076.4	CCSFS,
+SLC-40	Intelsat 40e
+TEMPO	~5,588 kg (12,319 lb)[528]	GTO	Intelsat
+NASA	Success	Success
+(drone ship)
+Maxar Technologies-built satellite that will service North and Central America.[529]
+217	15 April 2023
+06:47[530]	F9 B5 ♺
+B1063.10	VSFB,
+SLC-4E	Transporter-7: (51 payloads Smallsat Rideshare)	Unknown	SSO	Various	Success	Success
+(ground pad)
+Dedicated SmallSat Rideshare mission to Sun-synchronous orbit. The On-Orbit Servicing, Assembly and Manufacturing Mission 2 (OSAM-2), formerly known as Archinaut One, launched on this rideshare mission.[531][532] This launch debuts a new MVac nozzle extension design aimed at increasing cadence and reducing costs. This new nozzle extension is shorter, and as a result, the engine has a lower specific impulse and therefore performance. Due to this, it will only fly on missions that don't need Falcon 9's full performance capability.[533] This also is the reason Falcon 9 first stage for the first time ever to perform a single engine entry burn and 3-engine landing burn, similar to one in Falcon Heavy side booster landings.[534] Fifth second stage featuring Falcon long coast mission-extension kit, as this mission requires four second-stage burns while deploying payloads, excluding deorbit burn.
+218	19 April 2023
+14:31[535]	F9 B5 ♺
+B1073.8	CCSFS,
+SLC-40	Starlink Group 6-2 (21 satellites)	~16,900 kg (37,300 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 Mini Starlink launch to their Generation 2 network.[536]
+219	27 April 2023
+13:40[537]	F9 B5 ♺
+B1061.13	VSFB,
+SLC-4E	Starlink Group 3-5 (46 satellites)	~14,100 kg (31,100 lb)	SSO	SpaceX	Success	Success
+(drone ship)
+A West Coast Starlink launch to a 560 km Sun-synchronous orbit at an inclination of 97.6°.
+220	28 April 2023
+22:12[538]	F9 B5 ♺
+B1078.2[539]	CCSFS,
+SLC-40	O3b mPOWER 3 & 4	~4,100 kg (9,000 lb)	MEO	SES	Success	Success
+(drone ship)
+Second part of SES' MEO satellites for its O3b low-latency, high-performance connectivity services.[450]
+FH 6	1 May 2023
+00:26[540]	Falcon Heavy B5
+B1068 (core)[541]	KSC,
+LC-39A	ViaSat-3 Americas[542][543]
+Aurora 4A (Arcturus)[544][545]
+G-Space 1 (aka Nusantara-H1-A)	~6,722 kg (14,819 lb)	GEO	ViaSat
+Astranis / Pacific Dataport
+PT Pasifik Satelit Nusantara	Success	No attempt
+B1052.8 (side) ♺[541]	No attempt
+B1053.3 (side) ♺[541]	No attempt
+This mission directly delivered the satellites to geostationary orbit, thus the core and side boosters were all expendable alongside having the sixth second stage featuring Falcon long coast mission-extension kit. Satellites of the ViaSat-3 class use electric propulsion, which requires less fuel for stationkeeping operations over their lifetime,[543] making them the heaviest all-electric satellites ever launched into space. First mission to expend all three cores, and first FH mission with reused fairing halves. They were recovered at the farthest distance, almost 2000 km downrange.
+221	4 May 2023
+07:31[546]	F9 B5 ♺
+B1069.7[546]	CCSFS,
+SLC-40	Starlink Group 5-6[547] (56 satellites)	~17,400 kg (38,400 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast Starlink launch to their Generation 2 network.
+222	10 May 2023
+20:09[548]	F9 B5 ♺
+B1075.3[549]	VSFB,
+SLC-4E	Starlink Group 2-9 (51 satellites)	15,900 kg (35,100 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+A West Coast Starlink network launch to a 570 km circular orbit at an inclination of 70°.
+223	14 May 2023
+05:03[550]	F9 B5 ♺
+B1067.11	CCSFS,
+SLC-40	Starlink Group 5-9[551] (56 satellites)	~17,400 kg (38,400 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast Starlink launch to their Generation 2 network.
+224	19 May 2023
+06:19[552]	F9 B5 ♺
+B1076.5	CCSFS,
+SLC-40	Starlink Group 6-3[553] (22 satellites)		LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 Mini Starlink launch to their Generation 2 network.
+225	20 May 2023
+13:16[552]	F9 B5 ♺
+B1063.11	VSFB,
+SLC-4E	Iridium-NEXT[554] (5 satellites)
+OneWeb (15 Gen1 plus a Gen2 test satellite)[555]	~6,600 kg (14,600 lb)	Polar LEO	Iridium & OneWeb	Success	Success
+(drone ship)
+Iridium-9 rideshare mission, carrying five on-orbit spare Iridium-NEXT satellites along with 15 Gen1 and a demo Gen2 OneWeb satellites.[546] Second mission featuring a shorter MVac nozzle extension, suitable for low-energy missions.[556]
+226	21 May 2023
+21:37[557]	F9 B5
+B1080.1	KSC,
+LC-39A	Ax-2
+(Crew Dragon C212.2 Freedom ♺) [554]	~13,000 kg (29,000 lb)	LEO (ISS)	Axiom Space	Success	Success
+(ground pad)
+Axiom contracted for three additional private crewed missions in June 2021.[558] Peggy Whitson and John Shoffner were signed on as commander and pilot for Ax-2.[559][560] The third and fourth seats were bought by Saudi Arabia.[561] The Saudi crew members were revealed to be Ali AlQarni and Rayyanah Barnawi.[562] First time a booster landed on a ground pad after a crewed launch.
+227	27 May 2023
+04:30[563]	F9 B5 ♺
+B1062.14	CCSFS,
+SLC-40	ArabSat 7B (Badr-8)[564]	~4,500 kg (9,900 lb)	GTO	Arabsat	Success	Success
+(drone ship)
+Includes Airbus's TELEO optical communications payload demonstrator.[565]
+228	31 May 2023
+06:02[566]	F9 B5 ♺
+B1061.14	VSFB,
+SLC-4E	Starlink Group 2-10[567] (52 satellites)	~16,400 kg (36,200 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+A West Coast Starlink launch to a 570 km circular orbit at an inclination of 70°. The 200th consecutive successful Falcon 9 mission. This launch marked the first time SpaceX completed 9 launches in a calendar month.
+229	4 June 2023
+12:20[566]	F9 B5 ♺
+B1078.3	CCSFS,
+SLC-40	Starlink Group 6-4[568] (22 satellites)		LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 Mini Starlink launch to their Generation 2 network.
+230	5 June 2023
+15:47[569]	F9 B5 ♺
+B1077.5[570]	KSC,
+LC-39A	SpaceX CRS-28
+(Dragon C208.4 ♺ )[571]	~9,525 kg (20,999 lb)	LEO (ISS)	NASA (CRS)	Success	Success
+(drone ship)
+Three more CRS-2 missions for Dragon 2 covering up to CRS-29 were announced in December 2020.[517] Third mission featuring a shorter MVac nozzle extension, suitable for low-energy missions.
+231	12 June 2023
+07:10[572]	F9 B5 ♺
+B1073.9	CCSFS,
+SLC-40	Starlink Group 5-11[573] (52 satellites)	~16,400 kg (36,200 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast Starlink launch to their Generation 2 network.
+232	12 June 2023
+21:35[574]	F9 B5 ♺
+B1071.9	VSFB,
+SLC-4E	Transporter-8: (72 payloads Smallsat Rideshare)	Unknown[e]	SSO	Various	Success	Success
+(ground pad)
+Dedicated SmallSat Rideshare mission to Sun-synchronous orbit. Expected to fly on this mission are Launcher's Orbiter SN3 vehicle[466] and the first of Satellite Vu Mid-wave Infrared imaging satellite. This mission marked the 200th overall successful booster landing. Fourth mission featuring a shorter MVac nozzle extension, suitable for low-energy missions.
+233	18 June 2023
+22:21[575]	F9 B5 ♺
+B1067.12[576]	CCSFS,
+SLC-40	SATRIA[577]	~4,580 kg (10,100 lb)	GTO	PT Pasifik Satelit Nusantara	Success	Success
+(drone ship)
+PSN selected Falcon 9 in September 2020, to launch its satellite instead of a Chinese rocket or Ariane 5.
+234	22 June 2023
+07:19[575]	F9 B5 ♺
+B1075.4[578]	VSFB,
+SLC-4E	Starlink Group 5-7[579] (47 satellites)	~14,500 kg (32,000 lb)[580]	LEO	SpaceX	Success	Success
+(drone ship)
+A West Coast Starlink launch. Seventh second stage featuring Falcon long coast mission-extension kit. Reaching 43° inclination orbit from Vandenberg, makes it the lowest orbital inclination ever reached by a rocket launched from the US west coast.
+235	23 June 2023
+15:35[581]	F9 B5 ♺
+B1069.8	CCSFS,
+SLC-40	Starlink Group 5-12 (56 satellites)	~17,400 kg (38,400 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast Starlink launch to their Generation 2 network.
+236	1 July 2023
+15:12[582]	F9 B5 ♺
+B1080.2	CCSFS,
+SLC-40	Euclid[583]	~2,160 kg (4,760 lb)	Sun–Earth L2 injection	ESA	Success	Success
+(drone ship)
+Euclid is a visible to near-infrared space telescope to better understand dark energy and dark matter by accurately measuring the acceleration of the universe. At $1.5 bn construction cost for the satellite, it is the most expensive payload launched on Falcon 9.
+237	7 July 2023
+19:29[584]	F9 B5 ♺
+B1063.12[585]	VSFB,
+SLC-4E	Starlink Group 5-13[586] (48 satellites)	~14,900 kg (32,800 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+A West Coast Starlink launch to their Generation 2 network.
+238	10 July 2023
+03:58[584]	F9 B5 ♺
+B1058.16	CCSFS,
+SLC-40	Starlink Group 6-5[587] (22 satellites)		LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network. B1058 was the first booster to launch and land 16 times, pushing the envelope and surpassing its previous record, which was 15 flights.
+239	16 July 2023
+03:50[588]	F9 B5 ♺
+B1060.16[589]	CCSFS,
+SLC-40	Starlink Group 5-15[590] (54 satellites)	~16,700 kg (36,800 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast Starlink launch to their Generation 2 network. Last v1.5 launch. Second booster flying for the 16th time.
+240	20 July 2023
+04:09[591]	F9 B5 ♺
+B1071.10	VSFB,
+SLC-4E	Starlink Group 6-15[592](15 satellites)[593]	~12,000 kg (26,000 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+A West Coast v2 mini Starlink launch to their Generation 2 network. First Starlink V2 mini launch from West Coast.
+241	24 July 2023
+00:50[591]	F9 B5 ♺
+B1076.6	CCSFS,
+SLC-40	Starlink Group 6-6[594] (22 satellites)		LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network.
+242	28 July 2023
+04:01[595]	F9 B5 ♺
+B1062.15	CCSFS,
+SLC-40	Starlink Group 6-7 (22 satellites)		LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network. The launch occurred 4 days 3 hours and 11 minutes after SpaceX's previous mission from the same pad, setting a new record that was broken again ten days later with flight 244.
+FH 7	29 July 2023
+03:04[596]	Falcon Heavy B5
+B1074 (core)	KSC,
+LC-39A	Jupiter-3 (EchoStar-24)[597]	~9,200 kg (20,300 lb)	GTO	EchoStar	Success	No attempt
+B1064.3 (side) ♺	Success
+(ground pad)
+B1065.3 (side) ♺	Success
+(ground pad)
+Largest and heaviest geostationary communication satellite ever launched.[597] Both side boosters returned to the launch site while the center core was expended.[598] First second stage featuring Falcon medium coast mission-extension kit.[599]
+243	3 August 2023
+05:00[600]	F9 B5 ♺
+B1077.6	CCSFS,
+SLC-40	Galaxy 37[405]
+Horizons-4	~5,063 kg (11,162 lb)	GTO	Intelsat	Success	Success
+(drone ship)
+Intelsat originally contracted both SpaceX and Arianespace to launch its seventh C-band replacement satellite, Galaxy 37.[405] Launch was previously awarded to Arianespace.[601][602] Also known as Galaxy 13R, as it will replace Galaxy 13.[603] The spacecraft also contains a Ku-band payload to be known as Horizons-4, which will be Japan-licensed.
+244	7 August 2023
+02:41[604]	F9 B5 ♺
+B1078.4	CCSFS,
+SLC-40	Starlink Group 6-8 (22 satellites)		LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network. This launch marked a pad turn around record for SpaceX; the launch occurred 3 days, 21 hours, and 41 minutes after SpaceX's previous mission from pad 40 at Cape Canaveral. The previous record was set the month before at the same launch pad.
+245	8 August 2023
+03:57[605]	F9 B5 ♺
+B1075.5	VSFB,
+SLC-4E	Starlink Group 6-20[592](15 satellites)	~12,000 kg (26,000 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+A West Coast v2 mini Starlink launch to their Generation 2 network.
+246	11 August 2023
+05:17[606]	F9 B5 ♺
+B1069.9	CCSFS,
+SLC-40	Starlink Group 6-9[607] (22 satellites)		LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network. 1st time flying a fairing half for the 11th time. 100th launch of a batch of Starlink satellites (excluding launch of test satellites Tintin A&B).
+247	17 August 2023
+03:36[608]	F9 B5 ♺
+B1067.13	CCSFS,
+SLC-40	Starlink Group 6-10[609] (22 satellites)		LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network.
+248	22 August 2023
+09:37[610]	F9 B5 ♺
+B1061.15	VSFB,
+SLC-4E	Starlink Group 7-1[611] (21 satellites)	~16,800 kg (37,000 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+A West Coast v2 mini Starlink launch to their Generation 2 network.
+249	26 August 2023
+07:27[612]	F9 B5
+B1081.1[613]	KSC,
+LC-39A	Crew-7[614]
+(Crew Dragon C210.3 Endurance ♺)[615]	~13,000 kg (29,000 lb)	LEO (ISS)	NASA (CTS)[22]	Success	Success
+(ground pad)
+After first six Crew Dragon launches of NASA USCV award, a further three missions for SpaceX were announced on 3 December 2021. These launches carry up to four astronauts and 100 kg (220 lb) of cargo to the ISS as well as feature a lifeboat function to evacuate astronauts from ISS in case of an emergency.[22]
+250	27 August 2023
+01:05[616]	F9 B5 ♺
+B1080.3	CCSFS,
+SLC-40	Starlink Group 6-11[617] (22 satellites)		LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network.
+251	1 September 2023
+02:21[618]	F9 B5 ♺
+B1077.7	CCSFS,
+SLC-40	Starlink Group 6-13[619] (22 satellites)		LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network.
+252	2 September 2023[620]
+14:25[621]	F9 B5 ♺
+B1063.13	VSFB,
+SLC-4E	Transport and Tracking Layer (Tranche 0B) (11 Transport and 2 Tracking Layer satellites)	Unknown	LEO	SDA	Success	Success
+(ground pad)
+Second launch of SDA Transport and Tracking Layer satellites. Originally intended to launch remaining 18 satellites but a late change reduced this to 13. One is York Space Systems built and 10 are Lockheed Martin-Tyvak Space systems built Transport layer satellites and 2 are SpaceX-Leidos built, Starlink-derived Tracking layer satellites.[526] The Transport layer is an interoperable mesh network of satellites intended to provide periodic low-latency and high-capacity data connectivity, while the Tracking Layer consists of interconnected satellites with cross-links and wide field of view infrared sensors for hypersonic missile tracking. Fifth mission featuring a shorter MVac nozzle extension, suitable for low-energy missions. This was the 61st launch of a Falcon rocket this year, the same number of launches carried out in all of 2022.
+253	4 September 2023
+02:47[622]	F9 B5 ♺
+B1073.10	KSC,
+LC-39A	Starlink Group 6-12[623] (21 satellites)	~16,800 kg (37,000 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network. SpaceX's Falcon family thus broke the yearly world record for most successful launches by any rocket family, first set by the R-7 family in 1980 after this launch.
+254	9 September 2023
+03:12[624]	F9 B5 ♺
+B1076.7	CCSFS,
+SLC-40	Starlink Group 6-14[625] (22 satellites)		LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network.
+255	12 September 2023
+06:57[626]	F9 B5 ♺
+B1071.11	VSFB,
+SLC-4E	Starlink Group 7-2[627] (21 satellites)	~16,800 kg (37,000 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+A West Coast v2 mini Starlink launch to their Generation 2 network.
+256	16 September 2023
+03:38[628]	F9 B5 ♺
+B1078.5	CCSFS,
+SLC-40	Starlink Group 6-16 (22 satellites)		LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network. This was the 200th flight and 200th success of the Block 5 version of Falcon 9. SpaceX's Falcon family thus broke the yearly world record for most launches attempted (irrespective of launch outcome) by any rocket family, i.e., 64 set by the R-7 family in 1980 after this launch.[629][630]
+257	20 September 2023
+03:38[631]	F9 B5 ♺
+B1058.17	CCSFS,
+SLC-40	Starlink Group 6-17 (22 satellites)		LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network. SpaceX set a new record using the same booster for the 17th time.
+258	24 September 2023
+03:38[632]	F9 B5 ♺
+B1060.17	CCSFS,
+SLC-40	Starlink Group 6-18 (22 satellites)		LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network. Second booster to fly for the 17th time.
+259	25 September 2023
+08:48[633]	F9 B5 ♺
+B1075.6	VSFB,
+SLC-4E	Starlink Group 7-3 (21 satellites)	~16,800 kg (37,000 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+A West Coast v2 mini Starlink launch to their Generation 2 network.
+260	30 September 2023
+02:00[634]	F9 B5 ♺
+B1069.10	CCSFS,
+SLC-40	Starlink Group 6-19 (22 satellites)		LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network. This launch marked the first time SpaceX completed 10 launches in a calendar month.
+261	5 October 2023
+05:36[635]	F9 B5 ♺
+B1076.8	CCSFS,
+SLC-40	Starlink Group 6-21 (22 satellites)		LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network.
+262	9 October 2023
+07:23[636]	F9 B5 ♺
+B1063.14	VSFB,
+SLC-4E	Starlink Group 7-4 (21 satellites)	~16,800 kg (37,000 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+A West Coast v2 mini Starlink launch to their Generation 2 network.
+FH 8	13 October 2023
+14:19[637]	Falcon Heavy B5
+B1079 (core)[638]	KSC,
+LC-39A	Psyche[639]	~2,608 kg (5,750 lb)	Heliocentric	NASA (Discovery)	Success	No attempt
+B1064.4 (side) ♺	Success
+(ground pad)
+B1065.4 (side) ♺	Success
+(ground pad)
+Discovery Program mission designed to explore asteroid 16 Psyche to investigate the formation of the early Solar System.[640] Center core has been expended, while both side-boosters returned to Cape Canaveral for landings at LZ-1 and LZ-2.[641]
+263	13 October 2023
+23:01[642]	F9 B5 ♺
+B1067.14	CCSFS,
+SLC-40	Starlink Group 6-22 (22 satellites)		LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network. Launch of 2 rockets in single calendar day.
+264	18 October 2023
+00:39[643]	F9 B5 ♺
+B1062.16	CCSFS,
+SLC-40	Starlink Group 6-23 (22 satellites)		LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network.
+265	21 October 2023
+08:23[644]	F9 B5 ♺
+B1061.16	VSFB,
+SLC-4E	Starlink Group 7-5 (21 satellites)	~16,800 kg (37,000 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+A West Coast v2 mini Starlink launch to their Generation 2 network.
+266	22 October 2023
+02:17[645]	F9 B5 ♺
+B1080.4	CCSFS,
+SLC-40	Starlink Group 6-24 (23 satellites)	~17,100 kg (37,700 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network. First time 23 Starlinks V2 Mini were launched and new Falcon 9 payload mass record of 18,400 kg.
+267	29 October 2023
+09:00[646]	F9 B5 ♺
+B1075.7	VSFB,
+SLC-4E	Starlink Group 7-6 (22 satellites)		LEO	SpaceX	Success	Success
+(drone ship)
+A West Coast v2 mini Starlink launch to their Generation 2 network. New record of launching 22 v2 mini satellites from the West Coast.
+268	30 October 2023
+23:20[647]	F9 B5 ♺
+B1077.8	CCSFS,
+SLC-40	Starlink Group 6-25 (23 satellites)	~17,100 kg (37,700 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network.
+269	4 November 2023
+00:37[648]	F9 B5 ♺
+B1058.18	CCSFS,
+SLC-40	Starlink Group 6-26 (23 satellites)	~17,100 kg (37,700 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network. First booster to fly for the 18th time.
+270	8 November 2023
+05:05[649]	F9 B5 ♺
+B1073.11	CCSFS,
+SLC-40	Starlink Group 6-27 (23 satellites)	~17,100 kg (37,700 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network.
+271	10 November 2023
+01:28[650]	F9 B5 ♺
+B1081.2	KSC,
+LC-39A	SpaceX CRS-29
+(Dragon C211.2 ♺)	~9,525 kg (20,999 lb)	LEO (ISS)	NASA (CRS)	Success	Success
+(ground pad)
+Three more CRS-2 missions for Dragon 2 covering up to CRS-29 were announced in December 2020.[517] Mission will launch 2,381 kilograms (5,249 lb) of pressurized cargo and 569 kilograms (1,254 lb) of unpressurized cargo and then spend approximately one month on station. Among the cargo is station supplies and science experiments, including NASA's ILLUMA-T (Laser Communication from Space) and AWE (Atmospheric Waves Experiment) experiments, and ESA's Aquamembrane-3 experiment.[651]
+272	11 November 2023
+18:49[652]	F9 B5 ♺
+B1071.12	VSFB,
+SLC-4E	Transporter-9: (113 payloads Smallsat Rideshare)	Unknown[e]	SSO	Various	Success	Success
+(ground pad)
+Dedicated SmallSat Rideshare mission to Sun-synchronous orbit. Sixth mission featuring a shorter MVac nozzle extension, suitable for low-energy missions. Momentus has announced that three sats manifested by them failed to deploy from the Transporter-9 mission. The satellites were destroyed when second stage deorbited.[653]
+273	12 November 2023
+21:08[654]	F9 B5 ♺
+B1076.9	CCSFS,
+SLC-40	O3b mPOWER 5 & 6	~4,100 kg (9,000 lb)	MEO	SES	Success	Success
+(drone ship)
+Third part of SES' MEO satellites for its O3b low-latency, high-performance connectivity services.[450]
+274	18 November 2023
+05:05[655]	F9 B5 ♺
+B1069.11	CCSFS,
+SLC-40	Starlink Group 6-28 (23 satellites)	~17,100 kg (37,700 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network.
+275	20 November 2023
+10:30[656]	F9 B5 ♺
+B1063.15	VSFB,
+SLC-4E	Starlink Group 7-7 (22 satellites)		LEO	SpaceX	Success	Success
+(drone ship)
+A West Coast v2 mini Starlink launch to their Generation 2 network.
+276	22 November 2023
+07:47[657]	F9 B5 ♺
+B1067.15	CCSFS,
+SLC-40	Starlink Group 6-29 (23 satellites)	~17,100 kg (37,700 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network.
+277	28 November 2023
+04:20[658]	F9 B5 ♺
+B1062.17	CCSFS,
+SLC-40	Starlink Group 6-30 (23 satellites)	~17,100 kg (37,700 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network. First time SpaceX conducted 50th orbital launch in year from a single launch pad, i.e., CCSFS SLC-40 (all Falcon 9).
+278	1 December 2023
+18:19[659]	F9 B5 ♺
+B1061.17	VSFB,
+SLC-4E	425 Project SAR satellite[660][661]
+EIRSAT-1 and others 23 secondary payloads[662]	~800 kg (1,800 lb)
+(main satellite)	SSO	Republic of Korea Armed Forces	Success	Success
+(ground pad)
+A military satellite of South Korea with a mass of 800 kg. EIRSAT-1 is an Irish 2U cubesat that carries a gamma-ray detector and an experiment of thermal coatings for other spacecraft.[663] SpaceX completing 250th landing of a Falcon first-stage booster this mission.
+279	3 December 2023
+04:00[664]	F9 B5 ♺
+B1078.6	CCSFS,
+SLC-40	Starlink Group 6-31 (23 satellites)	~17,100 kg (37,700 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network.
+280	7 December 2023
+05:07[665]	F9 B5 ♺
+B1077.9	CCSFS,
+SLC-40	Starlink Group 6-33 (23 satellites)	~17,100 kg (37,700 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network. SpaceX's 90th orbital launch of the year including Falcon 9 and Falcon Heavy.
+281	8 December 2023
+08:03[666]	F9 B5 ♺
+B1071.13	VSFB,
+SLC-4E	Starlink Group 7-8 (22 satellites)		LEO	SpaceX	Success	Success
+(drone ship)
+A West Coast v2 mini Starlink launch to their Generation 2 network. 200th landing on a droneship by a Falcon booster. Fastest turnaround of VSFB SLC-4E pad at 6 days 13 hours 44 minutes. USA broke the world record of most launches by a nation (108), held by Soviet Union in 1982.[667][668] SpaceX completed 100 launches in 365 days (a year) between 8 December 2022, 22:27 UTC and 8 December 2023, 8:03 UTC.[669]
+282	19 December 2023
+04:01[670]	F9 B5 ♺
+B1081.3	CCSFS,
+SLC-40	Starlink Group 6-34 (23 satellites)	~17,100 kg (37,700 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network.
+283	23 December 2023
+05:33[671]	F9 B5 ♺
+B1058.19	CCSFS,
+SLC-40	Starlink Group 6-32 (23 satellites)	~17,100 kg (37,700 lb)	LEO	SpaceX	Success	Success[g]
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network. First booster to fly for the 19th time. Despite the successful landing, the booster tipped over during transit due to rough seas, high winds and waves, the stage was unable to be secured to the deck for recovery and later tipped over in transit. SpaceX has already equipped newer Falcon boosters with upgraded landing legs that have the capability to self-level and mitigate this type of issue.[672]
+284	24 December 2023
+13:11[673]	F9 B5 ♺
+B1075.8	VSFB,
+SLC-4E	SARah 2 & 3[674]	~3,600 kg (7,900 lb)	SSO	German Intelligence Service	Success	Success
+(ground pad)
+In January 2019, the satellites were expected to be launched between November 2020 and September 2021.[675] 90th Falcon 9 orbital launch of the year. Seventh mission featuring a shorter MVac nozzle extension, suitable for low-energy missions.
+FH 9	29 December 2023
+01:07[676]	Falcon Heavy B5
+B1084 (core)[677]	KSC,
+LC-39A	USSF-52 (Boeing X-37B OTV-7)	6,350 kg (14,000 lb)
++ OTV payload	High Elliptical HEO[678]	Department of the
+Air Force Rapid
+Capabilities Office[679]/USSF	Success	No attempt
+B1064.5 (side) ♺	Success
+(ground pad)
+B1065.5 (side) ♺	Success
+(ground pad)
+Classified payload contract awarded in June 2018 for US$130 million,[680] increased to $149.2 million in August 2021, due to "a change in the contract requirements" and expected to be completed by 14 April 2022.[681] Draft solicitation said the launch was 6,350 kg (14,000 lb) to GTO.[682] A month before launch, the Air Force announced that the mission will fly an X-37B (fourth flight of second X37-B) spaceplane.[683]
+285	29 December 2023
+04:01[684]	F9 B5 ♺
+B1069.12	CCSFS,
+SLC-40	Starlink Group 6-36 (23 satellites)	~17,100 kg (37,700 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network. SpaceX set a new record for the shortest time between two Falcon launches at 2 hours and 54 minutes. The previous record time was 4 hours and 12 minutes, set between the Starlink Group 2-8 and SES-18 and SES-19 missions on March 17, 2023.
+2024
+As of 4 March, there have been 20 launches in 2024. Bill Gerstenmaier told the U.S. Senate Commerce Committee's space subcommittee in October 2023 that the company is targeting roughly 144 flights, or 12 flights per month, for 2024.[685] Kiko Dontchev stated that the launch system (pads, recovery, flight hardware) needs to be capable of 13 launches per month to catch up average launch cadence when planned maintenance, debacles and weather inevitably slows down the cadence.[686] Musk stated that SpaceX aims to increase the total launch mass to orbit by Falcon family by ~50% in 2024.[687] Later, Jon Edwards stated a slightly higher goal of 148 Falcon launches for this year at the 2024 Annual Astro Awards Ceremony organised by Tim Dodd.[688]
+
+Flight
+No.	Date and
+time (UTC)	Version,
+booster[c]	Launch
+site	Payload[d]	Payload mass	Orbit	Customer	Launch
+outcome	Booster
+landing
+286	3 January 2024
+03:44[689]	F9 B5
+B1082.1	VSFB,
+SLC-4E	Starlink Group 7-9 (21 satellites)		LEO	SpaceX	Success	Success
+(drone ship)
+A West Coast v2 mini Starlink launch to their Generation 2 network. Includes the first six satellites with direct-to-cell connectivity.
+287	3 January 2024
+23:04[690]	F9 B5 ♺
+B1076.10	CCSFS,
+SLC-40	Ovzon-3	1,800 kg (4,000 lb)	GTO	Ovzon	Success	Success
+(ground pad)
+Broadband internet provider satellite.[691] First Falcon 9 launch to GTO with a return-to-launch-site (RTLS) landing. First commercial satellite with Roll Out Solar Array that were deployed on 10 January 2024.[692][693]
+288	7 January 2024
+22:35[694]	F9 B5 ♺
+B1067.16	CCSFS,
+SLC-40	Starlink Group 6-35 (23 satellites)	~17,100 kg (37,700 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network. Falcon record for total time from hangar rollout to launch at 6 hours, 33 minutes.[695]
+289	14 January 2024
+08:59[696]	F9 B5 ♺
+B1061.18	VSFB,
+SLC-4E	Starlink Group 7-10 (22 satellites)		LEO	SpaceX	Success	Success
+(drone ship)
+A West Coast v2 mini Starlink launch to their Generation 2 network. Second booster to fly for the 18th time.
+290	15 January 2024
+01:52[697]	F9 B5 ♺
+B1073.12	CCSFS,
+SLC-40	Starlink Group 6-37 (23 satellites)	~17,100 kg (37,700 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network. 190th landing in a row since the last landing failure and this was also the shortest time between landings on any droneship at just a bit over seven days. 300th successful mission for SpaceX.[698] Launches from SLC-40 will be now halted for some time for maintenance and to upgrade systems for even more rapid falcon flight cadence as required to achieve the 148 launches target of this year.[699]
+291	18 January 2024
+21:49[700]	F9 B5 ♺
+B1080.5	KSC,
+LC-39A	Ax-3
+(Crew Dragon C212.3 Freedom ♺) [558][701]	~13,000 kg (29,000 lb)	LEO (ISS)	Axiom Space	Success	Success
+(ground pad)
+Axiom contracted for three additional private crewed missions in June 2021. The crew consisted of American Michael López-Alegría, Italian astronaut Walter Villadei, ESA Swedish Project astronaut Marcus Wandt and Turkish astronaut Alper Gezeravcı.[702]
+292	24 January 2024
+00:35[703]	F9 B5 ♺
+B1063.16	VSFB,
+SLC-4E	Starlink Group 7-11 (22 satellites)		LEO	SpaceX	Success	Success
+(drone ship)
+A West Coast v2 mini Starlink launch to their Generation 2 network.
+293	29 January 2024
+01:10[704]	F9 B5 ♺
+B1062.18	KSC,
+LC-39A	Starlink Group 6-38 (23 satellites)	~17,100 kg (37,700 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network.
+294	29 January 2024
+05:57[705]	F9 B5 ♺
+B1075.9	VSFB,
+SLC-4E	Starlink Group 7-12 (22 satellites)		LEO	SpaceX	Success	Success
+(drone ship)
+A West Coast v2 mini Starlink launch to their Generation 2 network. This landing marked the fastest turnaround of a droneship at just over 5 days. The launch also marked the fastest turnaround time from SLC-4E at 5 days, 5 hours, 22 minutes, and 20 seconds, beating previous record of 6.5 days.
+295	30 January 2024
+17:07[706]	F9 B5 ♺
+B1077.10	CCSFS,
+SLC-40	CRS NG-20 (Cygnus (enhanced) S.S.
+Patricia “Patty” Hilliard Robertson)[707]	3,726 kg (8,214 lb)	LEO (ISS)	Northrop Grumman (CRS)	Success	Success
+(ground pad)
+First Cygnus flight on Falcon 9. Northrop Grumman acquired three flights from SpaceX while a replacement engine is developed for its Antares rocket. Eighth mission featuring a shorter MVac nozzle extension, suitable for low-energy missions. Cygnus is the only cargo freighter to launch on four different orbital launchers, that is, Antares 100 series, Atlas V, Antares 200 series and Falcon 9 Block 5 rockets. SpaceX modified their fairing for this mission to add a ~5’x4’ door side hatch for late loads of cargo onto the Cygnus spacecraft via mobile cleanroom.[708]
+296	8 February 2024
+06:33[709]	F9 B5 ♺
+B1081.4	CCSFS, SLC-40	PACE	1,694 kg (3,735 lb)	SSO	NASA (LSP)	Success	Success
+(ground pad)
+Plankton, Aerosol, Cloud, ocean Ecosystem is a 1.7 tonne, US$800 million craft that will orbit at 676 km (420 mi) altitude. It will include the Ocean Color Imager intended to study phytoplankton in the ocean, and two polarimeters for studying properties of clouds, aerosols and the ocean. The launch price was US$80.4 million.[710]
+297	10 February 2024
+00:34[711]	F9 B5 ♺
+B1071.14	VSFB,
+SLC-4E	Starlink Group 7-13 (22 satellites)		LEO	SpaceX	Success	Success
+(drone ship)
+A West Coast v2 mini Starlink launch to their Generation 2 network.
+298	14 February 2024
+22:30[712]	F9 B5 ♺
+B1078.7	CCSFS,
+SLC-40	USSF-124 (2 HBTSS and 4 SDA Tranche 0 Tracking Layer satellites)[713]	Unknown	LEO	USSF
+SDA	Success	Success
+(ground pad)
+Launch part of Phase 2 US Space Force contract awarded in 2022. Second time a second stage featured Falcon medium coast mission-extension kit. 1st time flying a fairing half for the 15th time.
+299	15 February 2024
+06:05[714]	F9 B5 ♺
+B1060.18	KSC,
+LC-39A	IM-1 Nova-C Odysseus lander	1,931 kg (4,257 lb)	TLI	NASA (CLPS)
+Intuitive Machines	Success	Success
+(ground pad)
+Second mission of NASA's Commercial Lunar Payload Services program, and would be the first private American company to land a spacecraft on the Moon. The lander is expected to carry five payloads of up to 100 kg (220 lb) total (LRA, NDL, LN-1, SCALPSS, and ROLSES), a deployable camera namely, EagleCam and transmit data from the lunar surface in a mission lasting 2 weeks.[715][716][717] The LC-39A's Transporter erector is modified to fuel liquid oxygen and liquid methane onto the lander alongside Falcon 9 fueling operations, shortly before liftoff.[718]
+300	15 February 2024
+21:34[719]	F9 B5 ♺
+B1082.2	VSFB,
+SLC-4E	Starlink Group 7-14 (22 satellites)		LEO	SpaceX	Success	Success
+(drone ship)
+300th Falcon 9 launch for a West Coast v2 mini Starlink mission to their Generation 2 network. 200th consecutive successful landing of a booster. First time SpaceX launched three rockets within 24 hours. SpaceX has started to ditch the stiffener ring around the regular nozzle of Merlin Vaccum Engine on their starlink missions from this launch.[720]
+301	20 February 2024
+20:11[721]	F9 B5 ♺
+B1067.17	CCSFS,
+SLC-40	Merah Putih 2 / Telkomsat HTS 113BT[722]	4,000 kg (8,800 lb)	GTO	Telkom Indonesia	Success	Success
+(drone ship)
+300th successful Falcon 9 mission carrying an Indonesian satellite to provide more capacity over Indonesia.
+302	23 February 2024
+04:11[723]	F9 B5 ♺
+B1061.19	VSFB,
+SLC-4E	Starlink Group 7-15 (22 satellites)		LEO	SpaceX	Success	Success
+(drone ship)
+A West Coast v2 mini Starlink launch to their Generation 2 network. Second booster to fly for the 19th time. One of the nine Merlin engines powering this first stage is flight leader, powering its 22nd mission to Earth orbit. It is already the most renowned rocket engine to date, surpassing Space Shuttle Main Engine no. 2019's record of 19 flights on its 20th flight.[724]
+303	25 February 2024
+22:06[725]	F9 B5 ♺
+B1069.13	CCSFS,
+SLC-40	Starlink Group 6-39 (24 satellites)	~17,500 kg (38,600 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network. First launch with 24 v2 mini and new mass record on Falcon 9 taking 17,500 kg (38,600 lb) to low Earth orbit.[726]
+304	29 February 2024
+15:30[727]	F9 B5 ♺
+B1076.11	CCSFS,
+SLC-40	Starlink Group 6-40 (23 satellites)	~17,100 kg (37,700 lb)	LEO	SpaceX	Success	Success
+(drone ship)
+An East Coast v2 mini Starlink launch to their Generation 2 network.
+305	4 March 2024
+03:53[728]	F9 B5
+B1083.1	KSC,
+LC-39A	Crew-8
+(Crew Dragon C206.5 Endeavour ♺ )[614]
+
+~13,000 kg (29,000 lb)	LEO (ISS)	NASA (CTS)[22]	Success	Success
+(ground pad)
+After first six Crew Dragon launches of NASA USCV award, a further three missions for SpaceX were announced on 3 December 2021. These launches carry up to four astronauts and 100 kg (220 lb) of cargo to the ISS as well as feature a lifeboat function to evacuate astronauts from ISS in case of an emergency. SpaceX sent the 50th astronaut on this Crew Dragon launch.[729]
+Future launches
+Future launches are listed chronologically when firm plans are in place. The order of the later launches is much less certain, as the official SpaceX manifest does not include a schedule.[204] Tentative launch dates are cited from various sources for each launch.[730][731][732][733] Launches are expected to take place "no earlier than" (NET) the listed date. The number of Starlink satellites per launch indicated with an ~ is an expectation based on previous launches to the same orbit, as the exact number is rarely published more than three days in advance.
+
+2024
+Date and time (UTC)	Version,
+booster[c]	Launch site	Payload[d]	Orbit	Customer
+4 March 2024
+~21:04[733][734]	F9 B5	VSFB,
+SLC-4E	Transporter-10, SmallSat Rideshare[735]	SSO	Various
+Dedicated SmallSat Rideshare mission to sun-synchronous orbit.
+4 March 2024
+~23:54[733]	F9 B5 ♺
+B1073.13	CCSFS,
+SLC-40	Starlink Group 6-41 (~24 satellites)	LEO	SpaceX
+An East Coast v2 mini Starlink launch to their Generation 2 network.
+8 March 2024
+~00:19[733]	F9 B5	CCSFS,
+SLC-40	Starlink Group 6-42 (~24 satellites)	LEO	SpaceX
+An East Coast v2 mini Starlink launch to their Generation 2 network.
+12 March 2024
+~00:47[733][736]	F9 B5	CCSFS,
+SLC-40	SpaceX CRS-30[737]	LEO (ISS)	NASA (CRS)
+Six additional CRS-2 missions for Dragon 2 were announced in March 2022, resupplying the ISS until 2026.
+Late March 2024[738]	F9 B5	VSFB,
+SLC-4E	USSF-62 (WSF-M 1)[739][713]	LEO	USSF
+Launch part of Phase 2 US Space Force contract awarded in 2022. Mission will launch the first Weather System Follow-on Microwave weather satellite, which will replace the aging Defense Meteorological Satellite Program satellites.
+March 2024[733]	F9 B5	VSFB,
+SLC-4E	Starlink Group 7-16 (~22 satellites)	LEO	SpaceX
+A West Coast v2 mini Starlink launch to their Generation 2 network.
+1 April 2024[733]	F9 B5	VSFB or CC	Bandwagon-1, SmallSat Rideshare[735][740]	LEO	Various
+Dedicated SmallSat Rideshare mission to 45 degree inclination 550–600 km altitude.
+April 2024[741]	F9 B5	TBD	Galileo-L12 (2 Satellites)	MEO	ESA
+First Galileo satellites booked on a US rocket following delays to the European Ariane 6 program.
+April 2024	F9 B5	VSFB or CC	425 Project SAR satellite flight 2[742]	SSO?	Republic of Korea Armed Forces
+A military satellite of South Korea with a mass of ~800 kg.
+May 2024[743]	Falcon Heavy B5
+B1087 (core)	KSC,
+LC-39A	GOES-U[744]	GEO	NOAA
+B1072.1 (side)
+B1086.1 (side)
+In September 2021, NASA awarded SpaceX a $152.5 million contract to provide launch services for the GOES-U weather satellite.
+May 2024[745][746]	F9 B5	VSFB or CC	EarthCARE[747]		ESA
+EarthCARE (Cloud, Aerosol and Radiation Explorer) satellite is the sixth mission in ESA's Earth Explorer program and it aims to advance our understanding of the role clouds and aerosols play in reflecting incident solar radiation back into space and trapping infrared radiation emitted from Earth's surface.
+June 2024[748]	F9 B5	CC,
+SLC-40/LC-39A	Nusantara Lima[749]	GTO?	PT Pasifik Satelit Nusantara
+A hot backup system for SATRIA-1.[750]
+June 2024[751]	F9 B5	CC,
+SLC-40/LC-39A	Türksat 6A[752]	GTO	Türksat
+First domestically produced Turkish communications satellite.
+June 2024[753]	F9 B5	CC,
+SLC-40 / LC-39A	SpaceX CRS-31[737]	LEO (ISS)	NASA (CRS)
+Six additional CRS-2 missions for Dragon 2 were announced in March 2022, resupplying the ISS until 2026.
+Q2 2024[754]	F9 B5	VSFB or CC	BlueBird Block 1 (5 Satellites)[755]	LEO	AST SpaceMobile
+Cellphone-compatible broadband constellation. Each satellite is to be a similar size and weight to its 1,500-kilogram BlueWalker 3 prototype and have a 64 square meter phased array antenna.
+Q2 2024[733][754]	F9 B5	VSFB or CC	BlueBird Block 1 (5 Satellites)[755]	LEO	AST SpaceMobile
+Cellphone-compatible broadband constellation. Each satellite is to be a similar size and weight to its 1,500-kilogram BlueWalker 3 prototype and have a 64 square meter phased array antenna.
+H1 2024[756][733]	F9 B5 ♺[757]	VSFB,
+SLC-4E[731]	WorldView Legion 1 & 2 Mission 1 (2 satellites)[757]	SSO	Maxar Technologies
+Two Maxar Technologies satellites built by subsidiary SSL for subsidiary DigitalGlobe.[757]
+Mid 2024[758][759]	F9 B5	CC,
+SLC-40/LC-39A	MicroGEO (4 satellites)[760]	GEO	Astranis
+Dedicated Falcon 9 launch to put four Astranis MicroGEO communications satellites into service in 2023.[760] The MicroGEOs will be launched to a custom geostationary orbit, with the four satellites individually conducting on-orbit maneuvers to inject themselves into their orbital slots. However, it is unclear whether this will be a direct to geostationary orbit insertion, or an optimized geostationary transfer orbit. The four spacecraft will be mounted to a standard adapter ring, known as an ESPA-Grande, for ease of deployment.
+July 2024[741]	F9 B5	TBD	2× Galileo	MEO	ESA
+Second launch of Galileo satellites.
+July 2024	F9 B5	VSFB or CC	Transporter-11, SmallSat Rideshare[735]	SSO	Various
+Dedicated SmallSat Rideshare mission to sun-synchronous orbit.
+Q2 2024[761]	F9 B5	CC,
+SLC-40/LC-39A	GSAT-20[762] (CMS-03)	GTO	New Space India Limited[762]
+Dish TV[763]
+Indian telecommunications satellite for Dish TV. Originally planned to launch on ISRO's LVM3,[764] but later shifted to Falcon 9 due to mass and scheduling issues.[761] It will be the first ISRO-made satellite to move from geostationary transfer orbit to geosynchronous orbit using electric propulsion.[765]
+H1 2024[733][766]	F9 B5[767]	CC,
+SLC-40/LC-39A	NROL-69	TBA	USSF
+Launch part of Phase 2 US Space Force contract awarded in 2021.[768]
+Late Q3 / Early Q4 2024[769]	F9 B5	KSC,
+LC-39A	Blue Ghost M1[770][771]	TLI	Firefly Aerospace
+NASA (CLPS)
+Firefly Aerospace has selected SpaceX's Falcon 9 rocket to deliver the Blue Ghost lunar lander to the lunar surface.[772] Blue Ghost will carry 10 payloads for NASA's Commercial Lunar Payload Services task order 19D mission along with other separately contracted payloads.[773]
+Mid 2024[774][775]	F9 B5	VSFB,
+SLC-4E	ASBM 1 (GX 10A),[776] ASBM 2 (GX 10B)	HEO	Space Norway / Inmarsat
+Space Norway will launch 2 satellites of the Arctic Satellite Broadband Mission (ASBM) system into highly elliptical orbits (apogee: 43,509 km (27,035 mi), perigee: 8,089 km (5,026 mi), 63.4° inclination)[777] to provide communication coverage to high latitudes not served by geosynchronous satellites.[778]
+Mid August 2024[779]	F9 B5 ♺	CC,
+SLC-40/LC-39A	Crew-9[614]	LEO (ISS)	NASA (CTS)[22]
+After first six Crew Dragon launches of NASA USCV award, a further three missions for SpaceX were announced on 3 December 2021. These launches carry up to four astronauts and 100 kg (220 lb) of cargo to the ISS as well as feature a lifeboat function to evacuate astronauts from ISS in case of an emergency.[22]
+August 2024[780][781]	F9 B5	KSC,
+LC-39A	Ax-4[558]	LEO (ISS)	Axiom Space
+Contract for 3 additional missions was signed in June 2021.
+Summer 2024[782][783]	F9 B5	KSC,
+LC-39A	Polaris Dawn[784]
+(Crew Dragon C207.3 Resilience ♺ )	LEO	Jared Isaacman / Polaris Program
+First of two Crew Dragon missions for the Polaris Program. Crew will consist of Jared Isaacman, Scott Poteet, Sarah Gillis and Anna Menon and will spend up to five days in orbit. Flying higher than any crewed Earth orbiting spacecraft has ever flown, Polaris Dawn will conduct research with the aim of better understanding the effects of spaceflight and space radiation on human health. At approximately 500 kilometers above the Earth, the crew will attempt the first-ever commercial extravehicular activity (EVA) with SpaceX-designed EVA spacesuits, derived from the existing intravehicular (IVA) suit.
+Summer 2024[785]	F9 B5	CC,
+SLC-40/LC-39A	Astra 1P/SES-24[785]	GTO	SES
+Will serve major broadcasters across Europe.
+Summer 2024[786]	F9 B5	CC,
+SLC-40 / LC-39A	Spainsat-NG I[787]	GTO	Hisdesat
+Communications satellite built on the Eurostar-Neo platform, to be utilized by the Spanish government and its allies.[788] First of two launches for the Spainsat-NG program.
+September 2024[789]	F9 B5	VSFB,
+SLC-4E	SDA Tranche 1 Tracking layer T1TL-B[790]	Polar LEO	SDA
+Launch part of Phase 2 US Space Force contract awarded in 2022.
+8 October 2024[583]	F9 B5	CCSFS, SLC-40	Hera with Juventas and Milani	Heliocentric	ESA
+Hera is a space mission in development at the European Space Agency in its Space Safety program. Its primary objective is to study the Didymos binary asteroid system that was impacted by DART and contribute to validation of the kinetic impact method to deviate a near-Earth asteroid in a colliding trajectory with Earth. It will measure the size and the morphology of the crater created by and momentum transferred by an artificial projectile impacting an asteroid, which will allow measuring the efficiency of the deflection produced by the impact. It will also carry two nano-satellite CubeSats, called Milani and Juventas.
+10 October 2024	Falcon Heavy B5
+B10xx (core)	KSC,
+LC-39A	Europa Clipper	Heliocentric	NASA
+B1064.6 ♺ (side)[791]
+B1065.6 ♺ (side)[791]
+Europa Clipper will conduct a detailed survey of Europa and use a sophisticated suite of science instruments to investigate whether the icy moon has conditions suitable for life. Key mission objectives are to produce high-resolution images of Europa's surface, determine its composition, look for signs of recent or ongoing geological activity, measure the thickness of the moon's icy shell, search for subsurface lakes, and determine the depth and salinity of Europa's ocean.[792] The mission will fly past Mars and Earth before arriving at Jupiter in April 2030.[793][794] The side boosters and the center core will all be expended.
+Late Q3 / Early Q4 2024[795]	F9 B5	KSC,
+LC-39A	Blue Ghost M1[796][797]	TLI	Firefly Aerospace
+NASA (CLPS)
+Firefly Aerospace has selected SpaceX's Falcon 9 rocket to deliver the Blue Ghost lunar lander to the lunar surface.[798] Blue Ghost will carry 10 payloads for NASA's Commercial Lunar Payload Services task order 19D mission along with other separately contracted payloads.[799]
+October 2024[735]	F9 B5	VSFB or CC	Transporter-12, SmallSat Rideshare	SSO	Various
+Dedicated SmallSat Rideshare mission to sun-synchronous orbit.
+October 2024[789]	F9 B5	VSFB,
+SLC-4E	SDA Tranche 1 Tracking layer T1TL-C[790]	Polar LEO	SDA
+Launch part of Phase 2 US Space Force contract awarded in 2022.
+November 2024[800]	Falcon Heavy B5	KSC,
+LC-39A	Griffin Mission 1[801]	TLI	Astrobotic
+NASA (Artemis)
+Astrobotic's Griffin lunar lander will deliver NASA's VIPER spacecraft to the lunar south pole. Recovery method is unconfirmed, but could possibly feature the first Falcon Heavy center core recovery attempt since STP-2.[802]
+November 2024	F9 B5	VSFB or CC	Bandwagon-2, SmallSat Rideshare[735][740]	LEO	Various
+Dedicated SmallSat Rideshare mission to 45 degree inclination 550–600 km altitude.
+November 2024[789]	F9 B5	VSFB,
+SLC-4E	SDA Tranche 1 Tracking layer T1TL-D[790]	Polar LEO	SDA
+Launch part of Phase 2 US Space Force contract awarded in 2022.
+November 2024	F9 B5	VSFB or CC	425 Project SAR satellite flight 3[742]	SSO?	Republic of Korea Armed Forces
+A military satellite of South Korea with a mass of ~800 kg.
+December 2024[789]	F9 B5	VSFB,
+SLC-4E	SDA Tranche 1 Tracking layer T1TL-E[790]	Polar LEO	SDA
+Launch part of Phase 2 US Space Force contract awarded in 2022.
+Q4 2024[789]	F9 B5	VSFB,
+SLC-4E	SDA Tranche 1 Transport layer T1TR-C[790]	Polar LEO	SDA
+Launch part of Phase 2 US Space Force contract awarded in 2022.
+Q4 2024[803]	F9 B5	KSC,
+LC-39A[804]	IM-2 Nova-C lunar lander
+Sherpa-ES	TLI	NASA (CLPS)
+Intuitive Machines
+Spaceflight, Inc.
+Intuitive Machines is sending its second lander aboard a SpaceX Falcon 9, with a projected launch time frame in late 2024. In February 2024, Intuitive Machines has completed its first lander mission via SpaceX, which is also hosting payloads for other private companies seeking to make lunar landfall under NASA's Commercial Lunar Payload Services program. NASA's PRIME-1 is expected to be included.[805] The Sherpa-ES Go Beyond orbital transfer vehicle will deploy rideshare payloads to trans-lunar orbit, low-lunar orbit and beyond to GEO.[806][807][808] NASA's Lunar Trailblazer mission will fly as a secondary payload on this mission.[809]
+Q4 2024[810]	F9 B5	CC,
+SLC-40/LC-39A	Koreasat 6A[811]	GTO	KT Sat
+South Korean communications satellite built on the Spacebus-4000B2 platform. To be positioned at 116° East.[812]
+H2 2024[733][766]	F9 B5[767]	CC,
+SLC-40/LC-39A[813]	USSF-36	TBA	USSF
+Launch part of Phase 2 US Space Force contract awarded in 2021.[768]
+H2 2024[814]	F9 B5	CC,
+SLC-40/LC-39A	O3b mPOWER 7 & 8	MEO	SES
+In August 2020, SES expanded the O3b mPOWER contract with two additional launches, raising the number of satellites from 7 to 11 satellites at nearly 2 tons each.[815][816] In October 2023 the mission was delayed to the second half of 2024 due to electrical issues discovered in the first four satellites of the constellation.[814]
+H2 2024[756]	F9 B5 ♺[757][817]	CCSFS,
+SLC-40[731]	WorldView Legion 3-4 Mission 2 (2 sats)[818][819][820]	SSO	Maxar Technologies
+Maxar Technologies built satellites.
+H2 2024[756]	F9 B5 ♺[757][817]	CC,
+SLC-40/LC-39A[733]	WorldView Legion 5 & 6 Mission 3 (2 sats)[818][819][820]	SSO	Maxar Technologies
+Maxar Technologies built satellites.
+2024[733]	F9 B5 ♺	KSC,
+LC-39A	DOGE-1 Possible rideshare	TLI	Geometric Energy
+Originally expected to be a secondary rideshare payload on IM-1 mission but the 40 kg was later postponed to a later date due to incomplete radio and launch requirements.>[821][non-primary source needed]
+2024[822]	F9 B5	Unknown	ispace 2nd lunar lander[823]	TLI	ispace
+Second lunar lander built by Japanese company ispace.
+2024[824]	F9 B5	CC,
+SLC-40 / LC-39A	Thuraya 4-NGS	GTO	Thuraya
+Planned replacement for Thuraya 2.[825]
+2024	F9 B5	CC,
+SLC-40 / LC-39A	CRS NG-21 (Cygnus (enhanced))[707]	LEO (ISS)	Northrop Grumman (CRS)
+Second of three launches Northrop Grumman acquired from SpaceX while a replacement engine is developed for its Antares rocket.
+2024	F9 B5	CC,
+SLC-40 / LC-39A	CRS NG-22 (Cygnus (enhanced))[707]	LEO (ISS)	Northrop Grumman (CRS)
+Third of three launches Northrop Grumman acquired from SpaceX while a replacement engine is developed for its Antares rocket.
+2024	F9 B5	Unknown	Reentry demonstration capsule Possible rideshare	LEO	The Exploration Company
+1600 kg 2.5 metre diameter reduced scale test of a reentry capsule, the full-scale version Nyx (4 metre diameter 8000 kg) is planned to deliver payloads to the ISS and return them back to Earth.[826]
+2024?	F9 B5	CC,
+SLC-40/LC-39A	USSF-31[790]	TBA	USSF
+Classified mission, part of Phase 2 US Space Force contract awarded in 2022.
+2025
+Date and time (UTC)	Version,
+booster[c]	Launch site	Payload[d]	Orbit	Customer
+February 2025	F9 B5	VSFB or CC	Transporter-13, SmallSat Rideshare[735]	SSO	Various
+Dedicated SmallSat Rideshare mission to sun-synchronous orbit.
+February 2025	F9 B5	VSFB or CC	Bandwagon-3, SmallSat Rideshare[735][740]	LEO	Various
+Dedicated SmallSat Rideshare mission to 45 degree inclination 550–600 km altitude.
+Q1 2025[803]	F9 B5	KSC,
+LC-39A	IM-3 Nova-C lunar lander	TLI	NASA (CLPS)
+Intuitive Machines
+Third mission for Intuitive Machines, with multiple rideshare payloads.[827] This mission was selected by NASA under the CLPS program in November 2021.[828][829]
+April 2025[830]	F9 B5	VSFB,
+SLC-4E	SPHEREx
+PUNCH[831]	SSO[832]	NASA
+In February 2021, NASA announced a $99 million contract for its Astrophysics Division.
+April 2025	F9 B5	VSFB or CC	TRACERS[833]	SSO	NASA
+Tandem Reconnection and Cusp Electrodynamics Reconnaissance Satellites (TRACERS) is a Small Explorers program mission. Expected to be part of a rideshare mission.[834]
+April 2025 onwards	F9 B5	VSFB,
+SLC-4E	12 launches for Rivada broadband constellation[835]	LEO	Rivada Space Networks
+In March 2023, Rivada contracted SpaceX to launch 300 B2B broadband satellites over 12 Falcon 9 launches between April 2025 and June 2026.
+May 2025	F9 B5	VSFB or CC	Bandwagon-4, SmallSat Rideshare[735][740]	LEO	Various
+Dedicated SmallSat Rideshare mission to 45 degree inclination 550–600 km altitude.
+June 2025	F9 B5	VSFB or CC	Transporter-14, SmallSat Rideshare[735]	SSO	Various
+Dedicated SmallSat Rideshare mission to sun-synchronous orbit.
+H2 2025 onwards (3 flights)[836][837]	F9 B5	VSFB or CC	Project Kuiper constellation deployment	LEO	Kuiper Systems / Amazon
+Announced Dec 1st, 2023. Three Falcon 9 launches beginning in the second half of 2025 in support of Amazon's Project Kuiper megaconstellation.
+August 2025	F9 B5	VSFB or CC	Haven-1[838]	LEO	Vast
+Launch of a new commercial space station by Vast Space.
+September 2025	F9 B5	KSC,
+LC-39A	Vast-1[838]	LEO	Vast
+First crewed mission to the Haven-1 space station.
+October 2025	F9 B5	VSFB or CC	Transporter-15, SmallSat Rideshare[735]	SSO	Various
+Dedicated SmallSat Rideshare mission to sun-synchronous orbit.
+November 2025	F9 B5	VSFB,
+SLC-4E	Sentinel-6B[839]	LEO	NASA/NOAA/EUMETSAT/ESA
+Identical to Sentinel-6A.[840]
+December 2025[841]	F9 B5	KSC,
+LC-39A	Interstellar Mapping and Acceleration Probe (IMAP)[842]	Sun–Earth L1	NASA
+In September 2020, NASA selected SpaceX to launch the IMAP mission, which will help researchers better understand the boundary of the heliosphere, a magnetic barrier surrounding our solar system. The total launch cost is approximately US$109.4 million. The secondary payloads include two NASA heliophysics missions of opportunity and the National Oceanic and Atmospheric Administration's Space Weather Follow On-Lagrange 1 (SWFO-L1) mission.[842]
+Q4 2025[843]	F9 B5	CC,
+SLC-40 / LC-39A	CHORUS	LEO	MDA
+Announced in October 2023, CHORUS will be a commercial Earth observation constellation owned and operated by MDA Ltd. Will utilize C and X-band SAR.
+2025[844]	F9 B5	VSFB or CC	CAS500-4[845] Likely Rideshare	SSO	Korea Aerospace Industries
+A satellite to monitor Korean agriculture.
+2025	F9 B5	CC,
+SLC-40 / LC-39A	Globalstar-3 M104–120 (17 satellites)[846]	LEO	Globalstar
+Globalstar's third-generation satellite constellation, launching to a 52 degree inclination orbit at an altitude of 1,410 km.[847]
+2025[814]	F9 B5	CC,
+SLC-40 / LC-39A	O3b mPOWER 9-11[848]	MEO	SES
+In August 2020, SES expanded the O3b mPOWER contract with a fourth launch.[816][849] In October 2023 the mission was delayed to 2025 due to electrical issues discovered in the first four satellites of the constellation.[814]
+2025[850]	F9 B5	CC,
+SLC-40 / LC-39A	Mission Robotic Vehicle (MRV) × 1[851]
+Mission Extension Pod (MEP) × 3	GTO	Northrop Grumman
+Developed from Northrop Grumman's 2,000 kg Mission Extension Vehicle architecture. One MEP (400 kg each) will be attached to Optus D3.[852]
+2025	F9 B5	CC,
+SLC-40/LC-39A	Skynet 6A[853]	GTO	Airbus / UK Ministry of Defence
+British military communications satellite ordered to bridge the gap between Skynet-5 and its successor.[854]
+2025	F9 B5	CC,
+SLC-40/LC-39A	Spainsat NG II[787]	GTO	Hisdesat
+Communications satellite built on the Eurostar-Neo platform, to be utilized by the Spanish government and its allies.[788] Second of two launches for the Spainsat-NG program.
+~2025	F9 B5	VSFB,
+SLC-4E	SDA Tranche 1 Transport layer T1TL-F[855][856]	Polar LEO	SDA
+Launch is part of Phase 2 US Air Force contract awarded in 2022.
+~2025	F9 B5	VSFB,
+SLC-4E	SDA Tranche 1 Transport layer T1TR-A[855][856]	Polar LEO	SDA
+Launch is part of Phase 2 US Air Force contract awarded in 2022.
+~2025	F9 B5	VSFB,
+SLC-4E	SDA Tranche 1 Transport layer T1TR-E[855][856]	Polar LEO	SDA
+Launch is part of Phase 2 US Air Force contract awarded in 2022.
+~2025	F9 B5	VSFB,
+SLC-4E	SDA Tranche 1 Transport layer T2TL-A[855][856]	Polar LEO	SDA
+Launch is part of Phase 2 US Air Force contract awarded in 2022.
+~2025	F9 B5	VSFB,
+SLC-4E	SDA Tranche 1 Transport layer T2TL-C[855][856]	Polar LEO	SDA
+Launch is part of Phase 2 US Air Force contract awarded in 2022.
+~2025	F9 B5	CC,
+SLC-40/LC-39A	NROL-77[855][856]	Classified	NRO
+Launch is part of Phase 2 US Air Force contract awarded in 2022.
+~2025	F9 B5	CC,
+SLC-40/LC-39A	GPS III-10[855][856]	MEO	USSF
+Launch is part of Phase 2 US Air Force contract awarded in 2022.
+2025[857]	Falcon Heavy B5	KSC,
+LC-39A	Power and Propulsion Element (PPE)
+Habitation and Logistics Outpost (HALO)[858]	TLI	NASA (Artemis)
+First elements for the Gateway station as part of the Artemis program, awarded in February 2021. The launch will cost NASA $331.8 million and will utilize Falcon Heavy's extended fairing.
+2025–2026
+(4 flights)	F9 B5	CC,
+SLC-40 / LC-39A	SpaceX CRS-32 to SpaceX CRS-35[737]	LEO (ISS)	NASA (CRS)
+Six additional CRS-2 missions for Dragon 2 were announced in March 2022, resupplying the ISS until 2026.
+2026 and beyond
+Date and time (UTC)	Version,
+booster[c]	Launch site	Payload[d]	Orbit	Customer
+Q1 2026	F9 B5	VSFB or CC	Transporter-16, SmallSat Rideshare[735]	SSO	Various
+Dedicated SmallSat Rideshare mission to sun-synchronous orbit.
+Q2 2026	F9 B5	VSFB or CC	Transporter-17, SmallSat Rideshare[735]	SSO	Various
+Dedicated SmallSat Rideshare mission to sun-synchronous orbit.
+Q4 2026	F9 B5	VSFB or CC	Transporter-18, SmallSat Rideshare[735]	SSO	Various
+Dedicated SmallSat Rideshare mission to sun-synchronous orbit.
+~2026	Falcon Heavy B5	KSC,
+LC-39A	USSF-75[855][856]	GSO	USSF
+~2026	Falcon Heavy B5	KSC,
+LC-39A	USSF-70[855][856]	GSO	USSF
+2026[859]	F9 B5	CC,
+SLC-40/LC-39A	Arabsat 7A[564][860]	GTO	Arabsat
+Announced in September 2022, Arabsat 7A will enter a geostationary orbit after its launch by a Falcon 9 rocket.
+2026[814]	F9 B5	CC,
+SLC-40 / LC-39A	O3b mPOWER 12 & 13	MEO	SES
+Two additional satellites were announced in October 2023 due to electrical issues discovered in the first four satellites of the constellation.[814]
+2026[861]	Falcon Heavy B5	KSC,
+LC-39A	Astrobotic Technology Lunar Lander[862]	TLI	Astrobotic Technology
+Astrobotic's third upcoming lander mission to the Moon. Targeting a South Pole landing in 2026.
+2026 and later
+(14 flights)	F9 B5	VSFB and CC	Telesat Lightspeed × 18	LEO	Telesat
+Announced in September 2023, Telesat has booked 14 launches of up to 18 satellites each.[863]
+2026–2030	F9 B5	CC,
+SLC-40/LC-39A	5 more launches (Crew-10 through Crew-14)[864]	LEO (ISS)	NASA (ISS)
+In June 2022, NASA announced it purchased an additional 5 crewed flights from SpaceX in addition to the previous 9 missions on top of the $3.5 billion contract.[865]
+Q1 2027	F9 B5	VSFB or CC	Transporter-19, SmallSat Rideshare[735]	SSO	Various
+Dedicated SmallSat Rideshare mission to sun-synchronous orbit.
+May 2027[866]	Falcon Heavy B5	KSC,
+LC-39A	Nancy Grace Roman Space Telescope[867]	Sun–Earth L2	NASA
+Flagship-class infrared space telescope.
+Q2 2027	F9 B5	VSFB or CC	Transporter-20, SmallSat Rideshare[735]	SSO	Various
+Dedicated SmallSat Rideshare mission to sun-synchronous orbit.
+Q4 2027	F9 B5	VSFB or CC	Transporter-21, SmallSat Rideshare[735]	SSO	Various
+Dedicated SmallSat Rideshare mission to sun-synchronous orbit.
+2027[868][869]	Falcon Heavy B5	KSC,
+LC-39A	GPS IIIF-1[855][870]	MEO	USSF
+First GPS Block IIIF launch.
+2028[861][871]	Falcon Heavy B5	KSC,
+LC-39A	GLS-1 (Dragon XL)	TLI	NASA (Gateway Logistics Services)
+In March 2020, NASA announced its first contract for the Gateway Logistics Services that guarantees at least two launches on a new variant of the Dragon spacecraft that will carry over 5 tonnes of cargo to the Lunar Gateway on 6–12 months long missions.[872][873]
+2029[861]	Falcon Heavy B5	KSC,
+LC-39A	GLS-2 (Dragon XL)[874]	TLI	NASA (Gateway Logistics Services)
+Second Dragon XL logistics module.[874]
+Notable launches
+First flights and contracts
+Main articles: Dragon Spacecraft Qualification Unit, COTS Demo Flight 1, Dragon C2+, and SpaceX CRS-1
+Duration: 1 minute and 53 seconds.1:53
+Launch of Falcon 9 Flight 1 with a boilerplate Dragon
+
+Dragon CRS-1 berthed to the International Space Station (ISS) on 14 October 2012, photographed from the Cupola.
+On 4 June 2010, the first Falcon 9 launch successfully placed a test payload into the intended orbit.[875] The second launch of Falcon 9 was COTS Demo Flight 1, which placed an operational Dragon capsule in orbit on 8 December 2010.[876] The capsule re-entered the atmosphere after two orbits, allowing for testing the reentry procedures. The capsule was recovered off the coast of Mexico[877] and then placed on display at SpaceX headquarters.[878] The remaining objectives of the NASA COTS qualification program were combined into a single Dragon C2+ mission, on the condition that all milestones would be validated in space before berthing Dragon to the ISS.[879] The Dragon capsule was propelled to orbit in May 2012, and following successful tests in the next days it was grabbed with the station's robotic arm (Canadarm2) and docked to the ISS docking port for the first time on 25 May. After successfully completing all the return procedures, the recovered Dragon C2+ capsule was put on display at Kennedy Space Center.[880] Thus, Falcon 9 and Dragon became the first fully commercially developed launcher to deliver a payload to the International Space Station, paving the way for SpaceX and NASA to sign the first Commercial Resupply Services agreement for cargo deliveries.[881]
+
+The first operational cargo resupply mission to ISS, the fourth flight of Falcon 9, was launched in October 2012. An engine suffered a loss of pressure at 76 seconds after liftoff, which caused an automatic shutdown of that engine, but the remaining eight first-stage engines continued to burn and the Dragon capsule reached orbit successfully and thus demonstrated the rocket's "engine out" capability in flight.[882] Due to ISS visiting vehicle safety rules, at NASA's request, the secondary payload Orbcomm-2 was released into a lower-than-intended orbit.[883] Despite this incident, Orbcomm said they gathered useful test data from the mission and later in 2014, launched more satellites via SpaceX.[884] The mission continued to rendezvous and berth the Dragon capsule with the ISS where the ISS crew unloaded its payload and reloaded the spacecraft with cargo for return to Earth.[885]
+
+Following unsuccessful attempts at recovering the first stage with parachutes, SpaceX upgraded to a much larger first stage booster and with greater thrust, termed Falcon 9 v1.1, and performed a demonstration flight of this version in September 2013.[886] After the second stage separation and delivering CASSIOPE, a very small payload relative to the rocket's capability, SpaceX conducted a novel high-altitude, high-velocity flight test wherein the booster attempted to reenter the lower atmosphere in a controlled manner and decelerate to a simulated over-water landing.[887]
+
+Loss of CRS-7 mission
+
+SpaceX CRS-7 disintegrating two minutes after liftoff, as seen from a NASA tracking camera.
+Main article: SpaceX CRS-7
+In June 2015, Falcon 9 Flight 19 carried a Dragon capsule on the seventh Commercial Resupply Services mission to the ISS. The second stage disintegrated due to an internal helium tank failure while the first stage was still burning normally. This was the first (and only as of Sep 2023) primary mission loss for any Falcon 9 rocket.[888] In addition to ISS consumables and experiments, this mission carried the first International Docking Adapter (IDA-1), whose loss delayed preparedness of the station's US Orbital Segment (USOS) for future crewed missions.[889]
+
+Performance was nominal until T+140 seconds into launch when a cloud of white vapor appeared, followed by rapid loss of second-stage LOX tank pressure. The booster continued on its trajectory until complete vehicle breakup at T+150 seconds. The Dragon capsule was ejected from the disintegrating rocket and continued transmitting data until impact with the ocean. SpaceX officials stated that the capsule could have been recovered if the parachutes had deployed; however, the Dragon software did not include any provisions for parachute deployment in this situation.[890] Subsequent investigations traced the cause of the accident to the failure of a strut that secured a helium bottle inside the second-stage LOX tank. With the helium pressurization system integrity breached, excess helium quickly flooded the tank, eventually causing it to burst from overpressure.[891][892] NASA's independent accident investigation into the loss of SpaceX CRS-7 found that the failure of the strut which led to the breakup of the Falcon-9 represented a design error. Specifically, that industrial grade stainless steel had been used in a critical load path under cryogenic conditions and flight conditions, without additional part screening, and without regard to manufacturer recommendations.[893]
+
+Full-thrust version and first booster landings
+Main articles: Falcon 9 flight 20 and SpaceX CRS-8
+
+Falcon 9 Flight 20 historic first-stage landing at CCSFS Landing Zone 1, 22 December 2015
+After pausing launches for months, SpaceX launched on 22 December 2015, the highly anticipated return-to-flight mission after the loss of CRS-7. This launch inaugurated a new Falcon 9 Full Thrust version of its flagship rocket featuring increased performance, notably thanks to subcooling of the propellants. After launching a constellation of 11 Orbcomm-OG2 second-generation satellites,[894] the first stage performed a controlled-descent and landing test for the eighth time, SpaceX attempted to land the booster on land for the first time. It managed to return the first stage successfully to the Landing Zone 1 at Cape Canaveral, marking the first successful recovery of a rocket first stage that launched a payload to orbit.[895] After recovery, the first stage booster performed further ground tests and then was put on permanent display outside SpaceX's headquarters in Hawthorne, California.[896]
+
+On 8 April 2016, SpaceX delivered its commercial resupply mission to the International Space Station marking the return-to-flight of the Dragon capsule, after the loss of CRS-7. After separation, the first-stage booster slowed itself with a boostback maneuver, re-entered the atmosphere, executed an automated controlled descent and landed vertically onto the drone ship Of Course I Still Love You, marking the first successful landing of a rocket on a ship at sea.[897] This was the fourth attempt to land on a drone ship, as part of the company's experimental controlled-descent and landing tests.[898]
+
+Loss of AMOS-6 on the launch pad
+Main article: AMOS-6
+On 1 September 2016, the 29th Falcon 9 rocket exploded on the launchpad while propellant was being loaded for a routine pre-launch static fire test. The payload, Israeli satellite AMOS-6, partly commissioned by Facebook, was destroyed with the launcher.[899] On 2 January 2017, SpaceX released an official statement indicating that the cause of the failure was a buckled liner in several of the COPV tanks, causing perforations that allowed liquid and/or solid oxygen to accumulate underneath the COPVs carbon strands, which were subsequently ignited possibly due to friction of breaking strands.[900]
+
+Zuma launch
+Main article: Zuma (satellite)
+Zuma was a classified United States government satellite and was developed and built by Northrop Grumman at an estimated cost of US$3.5 billion.[901] Its launch, originally planned for mid-November 2017, was postponed to 8 January 2018 as fairing tests for another SpaceX customer were assessed. Following a successful Falcon 9 launch, the first-stage booster landed at LZ-1.[902] Unconfirmed reports suggested that the Zuma spacecraft was lost,[903] with claims that either the payload failed following orbital release, or that the customer-provided adapter failed to release the satellite from the upper stage, while other claims argued that Zuma was in orbit and operating covertly.[903] SpaceX's COO Gwynne Shotwell stated that their Falcon 9 "did everything correctly" and that "Information published that is contrary to this statement is categorically false".[903] A preliminary report indicated that the payload adapter, modified by Northrop Grumman after purchasing it from a subcontractor, failed to separate the satellite from the second stage under the zero gravity conditions.[904][901] Due to the classified nature of the mission, no further official information is expected.[903]
+
+Falcon Heavy test flight
+Main article: Falcon Heavy test flight
+
+
+Liftoff of Falcon Heavy on its maiden flight (left) and its two side-boosters landing at LZ-1 and LZ-2 a few minutes later (right)
+The maiden launch of the Falcon Heavy occurred on 6 February 2018, temporarily making it the most powerful rocket since the Saturn V, with a theoretical payload capacity to low Earth orbit more than double the Delta IV Heavy.[905][906] Both side boosters landed nearly simultaneously after a ten-minute flight. The central core failed to land on a floating platform at sea.[907] The rocket carried a car and a mannequin to an eccentric heliocentric orbit that reaches further than aphelion of Mars.[908]
+
+First crewed flights
+Main articles: Crew Dragon Demo-1 and Crew Dragon Demo-2
+On 2 March 2019, SpaceX launched its first orbital flight of Dragon 2 (Crew Dragon). It was an uncrewed mission to the International Space Station. The Dragon contained a mannequin named Ripley, which was equipped with multiple sensors to gather data about how a human would feel during the flight. Along with the mannequin was 300 pounds of cargo of food and other supplies.[909] Also on board was Earth plush toy referred to as a "Super high tech zero-g indicator".[910] The toy became a hit with astronaut Anne McClain, who showed the plushy on the ISS each day[911] and also deciding to keep it on board to experience the crewed SpX-DM2.
+
+The Dragon spent six days in space, including five days docked to the International Space Station. During the time, various systems were tested to make sure the vehicle was ready for US astronauts Doug Hurley and Bob Behnken to fly in it in 2020. The Dragon undocked and performed a re-entry burn before splashing down on 8 March 2019, at 08:45 EST, 320 km (200 mi) off the coast of Florida.[912]
+
+SpaceX held a successful launch of the first commercial orbital human space flight on 30 May 2020, crewed with NASA astronauts Doug Hurley and Bob Behnken. Both astronauts focused on conducting tests on the Crew Dragon capsule. Crew Dragon successfully returned to Earth, splashing down in the Gulf of Mexico on 2 August 2020.[913]
+
+Reuse of the first stage
+Main articles: SpaceX reusable launch system development program and List of Falcon 9 first-stage boosters
+SpaceX has developed a program to reuse the first-stage booster, setting multiple booster reflight records:
+
+B1021 became, on 30 March 2017, the first booster to be successfully recovered a second time, on Flight 32 launching the SES-10 satellite. After that, it was retired and put on display at Cape Canaveral Air Force Station.[914]
+B1046, the first Block 5 booster, became the first to launch three times, carrying Spaceflight SSO-A on 3 December 2018.
+B1048 was the first booster to be recovered four times on 11 November 2019, and the first to perform a fifth flight on 18 March 2020, but the booster was lost during re-entry.
+B1049 was the first booster to be recovered five times on 4 June 2020, six times on 18 August 2020, and seven times on 25 November 2020.
+B1051 became the first booster to be recovered eight times on 20 January 2021, nine times on 14 March 2021, and ten times on 9 May 2021, achieving one of SpaceX's milestone goals for reuse. It then became the first booster to be recovered eleven times on 18 December 2021, and twelve times on 19 March 2022.[915][916][917][918]
+B1060 became the first booster to be recovered 13 times on 17 June 2022.
+B1058 became the first booster to be recovered 14 times on 11 September 2022, 15 times on 17 December 2022, 16 times on 10 July 2023, 17 times on 20 September 2023, 18 times on 4 November 2023 and 19 times on 23 December 2023.
+B1069 launched and returned a hosted box containing two FIFA 2022 World Cup Adidas Al Rihla on 15 October 2022 for a sub-orbital flight, the first payload on a Falcon 9 booster.[919]
+B1061 became the only booster on 30 December 2022 to launch from all SpaceX's different launch sites and on all of SpaceX's different landing zones and drone ships (except rarely used LZ-2 that is located nearby LZ-1).
+B1062 booster holds the record for fastest turnaround at 21 days. It launched on 8 April and again on 29 April 2022.[323]
+B1080 became the first booster to land onshore after launching a crewed mission (Ax-2) on 21 May 2023.
